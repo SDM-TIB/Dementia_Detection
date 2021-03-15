@@ -1,0 +1,32 @@
+[I 15:19:08.666 LabApp] JupyterLab extension loaded from /home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/site-packages/jupyterlab
+[I 15:19:08.666 LabApp] JupyterLab application directory is /home/tibvyasa/miniconda3/envs/dtree/share/jupyter/lab
+[I 15:19:08.668 LabApp] Serving notebooks from local directory: /home/tibvyasa/projects/proj_off/local_repos/Dementia_Detection
+[I 15:19:08.668 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 15:19:08.668 LabApp] http://localhost:8893/
+[I 15:19:08.668 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 15:19:16.800 LabApp] 302 GET / (127.0.0.1) 1.00ms
+[I 15:19:16.804 LabApp] 302 GET /lab? (127.0.0.1) 0.54ms
+[I 15:19:19.480 LabApp] 302 POST /login?next=%2Flab%3F (127.0.0.1) 30.91ms
+[W 15:19:20.548 LabApp] Could not determine jupyterlab build status without nodejs
+[I 15:19:22.716 LabApp] Kernel started: 0c6b6b26-6a56-428f-90e0-ee32d1af60fb, name: python3
+[I 15:19:22.726 LabApp] Kernel started: fbd1d8c6-e347-462c-ad2a-fef4cf0a05b0, name: python3
+[I 15:19:23.390 LabApp] Starting buffering for fbd1d8c6-e347-462c-ad2a-fef4cf0a05b0:58240e3f-d776-4fc9-8754-ba3ae0c6b363
+[I 15:19:34.710 LabApp] Kernel restarted: fbd1d8c6-e347-462c-ad2a-fef4cf0a05b0
+[I 15:20:06.543 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 15:20:49.506 LabApp] Kernel restarted: 0c6b6b26-6a56-428f-90e0-ee32d1af60fb
+[I 15:21:22.060 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 15:22:07.629 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 15:25:07.090 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 15:26:38.070 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 15:26:41.508 LabApp] Kernel restarted: 0c6b6b26-6a56-428f-90e0-ee32d1af60fb
+[I 15:27:10.481 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 15:27:22.199 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 15:27:33.047 LabApp] Kernel restarted: fbd1d8c6-e347-462c-ad2a-fef4cf0a05b0
+[I 15:28:33.832 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 15:28:37.476 LabApp] Kernel restarted: 0c6b6b26-6a56-428f-90e0-ee32d1af60fb
+[I 15:28:58.562 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 15:29:02.255 LabApp] Starting buffering for 0c6b6b26-6a56-428f-90e0-ee32d1af60fb:0025b601-d535-4aec-9563-7aeaac1f4e3a
+[I 15:29:22.432 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 15:30:24.027 LabApp] Starting buffering for 0c6b6b26-6a56-428f-90e0-ee32d1af60fb:e33fc824-96e6-4174-a3c4-25d347cf8cac
+[I 15:30:29.350 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 15:32:19.058 LabApp] Starting buffering for 0c6b6b26-6a56-428f-90e0-ee32d1af60fb:8a3b3e2f-3fa2-41a2-94d7-172fa1646b08
