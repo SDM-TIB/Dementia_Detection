@@ -30,3 +30,697 @@
 [I 15:30:24.027 LabApp] Starting buffering for 0c6b6b26-6a56-428f-90e0-ee32d1af60fb:e33fc824-96e6-4174-a3c4-25d347cf8cac
 [I 15:30:29.350 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
 [I 15:32:19.058 LabApp] Starting buffering for 0c6b6b26-6a56-428f-90e0-ee32d1af60fb:8a3b3e2f-3fa2-41a2-94d7-172fa1646b08
+[W 15:53:51.168 LabApp] Notebook data_filling/imputations/imputation_accuracy_anxiety.ipynb is not trusted
+[W 15:53:53.215 LabApp] Notebook data_filling/imputations/imputation_accuracy_cerbro_vascular.ipynb is not trusted
+[W 15:53:54.836 LabApp] Notebook data_filling/imputations/imputation_accuracy_depressive_illness.ipynb is not trusted
+[W 15:53:56.256 LabApp] Notebook data_filling/imputations/imputation_accuracy_petersen.ipynb is not trusted
+[I 15:53:56.344 LabApp] Kernel started: 1b279f7c-4b77-4f33-887f-203814710a9e, name: python3
+[I 15:53:58.593 LabApp] Kernel started: 020f5c2d-e8eb-45b4-8eca-8397702e4e6b, name: python3
+[I 15:53:58.604 LabApp] Kernel started: c3dc7b8b-16a2-4184-92b7-568bc814b3e6, name: python3
+[I 15:53:58.633 LabApp] Kernel started: 16f4db0e-0186-4d74-8f61-dcef7e08944f, name: python3
+[W 15:54:01.045 LabApp] Notebook data_filling/traditional_method/Optima Data Report Cases | 6511.ipynb is not trusted
+[W 15:54:03.125 LabApp] Notebook data_filling/traditional_method/Optima Data Report Cases | 9584.ipynb is not trusted
+[I 15:54:07.388 LabApp] Kernel started: 90ca51af-ef52-4c6f-957e-430c7bd2d177, name: python3
+[I 15:54:07.397 LabApp] Kernel started: 1a585c0c-153e-4176-96bf-14f94aefe84e, name: python3
+[I 15:54:18.431 LabApp] Kernel restarted: 1b279f7c-4b77-4f33-887f-203814710a9e
+[I 15:54:21.289 LabApp] Saving file at /data_filling/imputations/imputation_accuracy_anxiety.ipynb
+[I 15:54:21.358 LabApp] Starting buffering for 1b279f7c-4b77-4f33-887f-203814710a9e:9aa6bc76-892e-434d-a679-e52ea8bfbfec
+[I 15:55:09.281 LabApp] Starting buffering for 020f5c2d-e8eb-45b4-8eca-8397702e4e6b:008cb782-5fff-45fa-b460-997af0a941bd
+[I 15:55:11.064 LabApp] Starting buffering for c3dc7b8b-16a2-4184-92b7-568bc814b3e6:4fc84091-8f4b-4512-95cd-218b755fc871
+[I 15:55:13.041 LabApp] Starting buffering for 16f4db0e-0186-4d74-8f61-dcef7e08944f:5222fd93-7da0-4040-bf54-0a9df4769fee
+[I 15:55:14.737 LabApp] Starting buffering for 90ca51af-ef52-4c6f-957e-430c7bd2d177:bd785e1b-cfb6-4f15-8571-94ebc15a28a9
+[I 15:55:16.632 LabApp] Starting buffering for 1a585c0c-153e-4176-96bf-14f94aefe84e:d2325a1f-fa03-4ec9-8b15-c20e27561bae
+[C 15:57:06.970 LabApp] received signal 15, stopping
+[I 15:57:06.971 LabApp] Shutting down 8 kernels
+[I 15:57:07.875 LabApp] Kernel shutdown: 0c6b6b26-6a56-428f-90e0-ee32d1af60fb
+[I 15:57:07.875 LabApp] Kernel shutdown: fbd1d8c6-e347-462c-ad2a-fef4cf0a05b0
+[I 15:57:07.876 LabApp] Kernel shutdown: 1b279f7c-4b77-4f33-887f-203814710a9e
+[I 15:57:07.876 LabApp] Kernel shutdown: 020f5c2d-e8eb-45b4-8eca-8397702e4e6b
+[I 15:57:07.876 LabApp] Kernel shutdown: c3dc7b8b-16a2-4184-92b7-568bc814b3e6
+[I 15:57:07.876 LabApp] Kernel shutdown: 16f4db0e-0186-4d74-8f61-dcef7e08944f
+[I 15:57:07.876 LabApp] Kernel shutdown: 90ca51af-ef52-4c6f-957e-430c7bd2d177
+[I 15:57:07.877 LabApp] Kernel shutdown: 1a585c0c-153e-4176-96bf-14f94aefe84e
+[I 15:57:07.877 LabApp] Shutting down 0 terminals
+[I 15:57:07.881 LabApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 15:57:07.883 LabApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 15:57:07.886 LabApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 15:57:07.889 LabApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 15:57:07.892 LabApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 15:57:07.896 LabApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 10:46:00.085 LabApp] JupyterLab extension loaded from /home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/site-packages/jupyterlab
+[I 10:46:00.086 LabApp] JupyterLab application directory is /home/tibvyasa/miniconda3/envs/dtree/share/jupyter/lab
+[I 10:46:00.087 LabApp] Serving notebooks from local directory: /home/tibvyasa/projects/proj_off/local_repos/Dementia_Detection
+[I 10:46:00.087 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 10:46:00.087 LabApp] http://localhost:8888/
+[I 10:46:00.088 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 10:46:12.425 LabApp] 302 GET / (127.0.0.1) 0.42ms
+[I 10:46:12.429 LabApp] 302 GET /lab? (127.0.0.1) 0.60ms
+[I 10:46:16.531 LabApp] 302 POST /login?next=%2Flab%3F (127.0.0.1) 39.75ms
+[I 10:46:18.501 LabApp] Build is up to date
+[W 10:46:18.501 LabApp] 404 GET /api/contents/dementia_optima/diagnosed_pat_classification/regression_based_tree/all_variables.ipynb?content=0&1641375977931 (127.0.0.1): No such file or directory: dementia_optima/diagnosed_pat_classification/regression_based_tree/all_variables.ipynb
+[W 10:46:18.502 LabApp] No such file or directory: dementia_optima/diagnosed_pat_classification/regression_based_tree/all_variables.ipynb
+[W 10:46:18.502 LabApp] 404 GET /api/contents/dementia_optima/diagnosed_pat_classification/regression_based_tree/all_variables.ipynb?content=0&1641375977931 (127.0.0.1) 2.64ms referer=http://localhost:8888/lab?
+[W 10:46:18.502 LabApp] 404 GET /api/contents/dementia_optima/diagnosed_pat_classification/all_variables/all_variables.ipynb?content=0&1641375977930 (127.0.0.1): No such file or directory: dementia_optima/diagnosed_pat_classification/all_variables/all_variables.ipynb
+[W 10:46:18.502 LabApp] No such file or directory: dementia_optima/diagnosed_pat_classification/all_variables/all_variables.ipynb
+[W 10:46:18.502 LabApp] 404 GET /api/contents/dementia_optima/diagnosed_pat_classification/all_variables/all_variables.ipynb?content=0&1641375977930 (127.0.0.1) 2.21ms referer=http://localhost:8888/lab?
+[W 10:46:18.502 LabApp] 404 GET /api/contents/dementia_optima/diagnosed_pat_classification/all_variables/oversampled_smote.pdf?content=0&1641375977929 (127.0.0.1): No such file or directory: dementia_optima/diagnosed_pat_classification/all_variables/oversampled_smote.pdf
+[W 10:46:18.502 LabApp] No such file or directory: dementia_optima/diagnosed_pat_classification/all_variables/oversampled_smote.pdf
+[W 10:46:18.503 LabApp] 404 GET /api/contents/dementia_optima/diagnosed_pat_classification/all_variables/oversampled_smote.pdf?content=0&1641375977929 (127.0.0.1) 2.16ms referer=http://localhost:8888/lab?
+[W 10:46:19.099 LabApp] 404 GET /api/contents/dementia_optima/diagnosed_pat_classification/regression_based_tree?1641375979096 (127.0.0.1): No such file or directory: dementia_optima/diagnosed_pat_classification/regression_based_tree
+[W 10:46:19.099 LabApp] No such file or directory: dementia_optima/diagnosed_pat_classification/regression_based_tree
+[W 10:46:19.099 LabApp] 404 GET /api/contents/dementia_optima/diagnosed_pat_classification/regression_based_tree?1641375979096 (127.0.0.1) 0.76ms referer=http://localhost:8888/lab?
+[I 10:46:29.469 LabApp] Kernel started: 446f7b38-fc4a-4a23-8036-2e5f16ed6e86, name: python3
+[I 10:46:31.488 LabApp] Kernel started: 88e896b7-df3c-4cf7-ab44-7fa54894522e, name: python3
+[I 12:53:33.108 LabApp] Creating new notebook in /
+[I 12:53:33.358 LabApp] Kernel started: 494388c6-e8d7-436e-8c1d-9c4da14ca5bf, name: python3
+[I 12:55:33.362 LabApp] Saving file at /list_latex.ipynb
+[I 12:57:33.502 LabApp] Saving file at /list_latex.ipynb
+[I 12:58:26.992 LabApp] Saving file at /list_latex.ipynb
+[I 12:58:34.392 LabApp] Saving file at /list_latex.ipynb
+[I 13:00:34.502 LabApp] Saving file at /list_latex.ipynb
+[I 13:02:34.613 LabApp] Saving file at /list_latex.ipynb
+[I 13:04:34.712 LabApp] Saving file at /list_latex.ipynb
+[I 13:06:34.833 LabApp] Saving file at /list_latex.ipynb
+[I 13:08:34.931 LabApp] Saving file at /list_latex.ipynb
+[I 13:20:59.751 LabApp] Saving file at /list_latex.ipynb
+[I 13:22:59.831 LabApp] Saving file at /list_latex.ipynb
+[I 13:23:18.561 LabApp] Saving file at /list_latex.ipynb
+[I 13:24:19.683 LabApp] Saving file at /list_latex.ipynb
+[I 13:26:20.363 LabApp] Saving file at /list_latex.ipynb
+[I 13:30:20.463 LabApp] Saving file at /list_latex.ipynb
+[I 13:32:20.573 LabApp] Saving file at /list_latex.ipynb
+[I 13:34:20.673 LabApp] Saving file at /list_latex.ipynb
+[I 13:36:21.352 LabApp] Saving file at /list_latex.ipynb
+[I 13:40:21.471 LabApp] Saving file at /list_latex.ipynb
+[I 13:42:21.561 LabApp] Saving file at /list_latex.ipynb
+[I 15:12:05.381 LabApp] Saving file at /list_latex.ipynb
+[I 15:14:06.373 LabApp] Saving file at /list_latex.ipynb
+[I 16:49:08.099 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 16:49:08.101 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 16:49:08.102 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:b42ce608-6e23-4901-91d9-b94b99d5f441
+[I 18:36:49.813 LabApp] Restoring connection for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 18:36:49.833 LabApp] Restoring connection for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 18:36:49.855 LabApp] Restoring connection for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:b42ce608-6e23-4901-91d9-b94b99d5f441
+[I 22:21:12.802 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:b42ce608-6e23-4901-91d9-b94b99d5f441
+[I 22:21:12.803 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 22:21:12.803 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 15:55:36.969 LabApp] Restoring connection for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 15:55:37.003 LabApp] Restoring connection for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 18:57:25.928 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:c573a255-68e0-4d55-a770-2c72d9311a3f
+[I 18:57:25.930 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 18:57:25.930 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 12:32:56.477 LabApp] Restoring connection for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 12:32:56.507 LabApp] Restoring connection for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 12:45:15.144 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 12:45:15.145 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 12:45:15.146 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:c573a255-68e0-4d55-a770-2c72d9311a3f
+[I 13:12:45.659 LabApp] Restoring connection for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 13:12:45.679 LabApp] Restoring connection for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 13:12:45.702 LabApp] Restoring connection for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:c573a255-68e0-4d55-a770-2c72d9311a3f
+[I 14:43:38.402 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:c573a255-68e0-4d55-a770-2c72d9311a3f
+[I 14:43:38.403 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 14:43:38.403 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 18:35:36.960 LabApp] Restoring connection for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:c573a255-68e0-4d55-a770-2c72d9311a3f
+[I 18:35:36.984 LabApp] Restoring connection for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 18:35:37.034 LabApp] Restoring connection for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 22:13:20.692 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 22:13:20.693 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 22:13:20.693 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:c573a255-68e0-4d55-a770-2c72d9311a3f
+[I 16:17:43.834 LabApp] Restoring connection for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 16:17:43.893 LabApp] Restoring connection for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 17:19:11.463 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 17:19:11.464 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 17:19:11.465 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:b42ce608-6e23-4901-91d9-b94b99d5f441
+[I 11:28:47.138 LabApp] Restoring connection for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 11:28:47.299 LabApp] Restoring connection for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 13:21:40.291 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:77b7373a-cc4b-47d1-bd09-2effe3b1b023
+[I 13:21:40.292 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:c573a255-68e0-4d55-a770-2c72d9311a3f
+[I 13:21:40.293 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:c3615766-4bba-4e35-92b2-86c3e91eedc9
+[I 21:24:19.448 LabApp] 302 GET / (127.0.0.1) 1.42ms
+[I 21:24:21.932 LabApp] Build is up to date
+[I 22:51:33.707 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:bfa6592f-4e1c-41a0-b3fd-9d929ead91e7
+[I 22:51:33.707 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:f94c7366-151a-4c75-8625-79217208c0eb
+[I 22:51:33.708 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:25249ce2-0628-4f66-9b06-44dde7b542b6
+[I 23:00:57.173 LabApp] Restoring connection for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:25249ce2-0628-4f66-9b06-44dde7b542b6
+[I 23:00:57.195 LabApp] Restoring connection for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:bfa6592f-4e1c-41a0-b3fd-9d929ead91e7
+[I 23:00:57.217 LabApp] Restoring connection for 88e896b7-df3c-4cf7-ab44-7fa54894522e:f94c7366-151a-4c75-8625-79217208c0eb
+[I 23:02:50.283 LabApp] Starting buffering for 446f7b38-fc4a-4a23-8036-2e5f16ed6e86:bfa6592f-4e1c-41a0-b3fd-9d929ead91e7
+[I 23:02:50.284 LabApp] Starting buffering for 88e896b7-df3c-4cf7-ab44-7fa54894522e:f94c7366-151a-4c75-8625-79217208c0eb
+[I 23:02:50.285 LabApp] Starting buffering for 494388c6-e8d7-436e-8c1d-9c4da14ca5bf:25249ce2-0628-4f66-9b06-44dde7b542b6
+[I 16:42:19.966 LabApp] JupyterLab extension loaded from /home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/site-packages/jupyterlab
+[I 16:42:19.967 LabApp] JupyterLab application directory is /home/tibvyasa/miniconda3/envs/dtree/share/jupyter/lab
+[I 16:42:19.969 LabApp] Serving notebooks from local directory: /home/tibvyasa/projects/proj_off/local_repos/Dementia_Detection
+[I 16:42:19.969 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 16:42:19.969 LabApp] http://localhost:8888/
+[I 16:42:19.969 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:43:14.999 LabApp] 302 GET / (127.0.0.1) 0.51ms
+[I 16:43:15.002 LabApp] 302 GET /lab? (127.0.0.1) 0.68ms
+[I 16:43:17.294 LabApp] 302 POST /login?next=%2Flab%3F (127.0.0.1) 38.93ms
+[I 16:43:19.328 LabApp] Build is up to date
+[I 16:43:20.858 LabApp] Kernel started: 29c18f7f-589d-40e3-9c03-9840c32f6363, name: python3
+[I 16:43:20.865 LabApp] Kernel started: a7e02a3f-b409-47e5-8ad2-58c5ccaa4b34, name: python3
+[I 16:43:20.875 LabApp] Kernel started: 87f6020a-f120-405d-86aa-dd92e243011e, name: python3
+[I 16:43:21.261 LabApp] Starting buffering for 87f6020a-f120-405d-86aa-dd92e243011e:8da50919-0784-4dd2-a578-940616250110
+[I 16:46:41.424 LabApp] Kernel restarted: 87f6020a-f120-405d-86aa-dd92e243011e
+[I 16:47:20.524 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 16:49:20.644 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 16:51:20.794 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 17:07:21.004 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 17:13:21.475 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 17:15:21.604 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 17:31:43.832 LabApp] Kernel restarted: a7e02a3f-b409-47e5-8ad2-58c5ccaa4b34
+[I 17:32:45.494 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 17:34:45.634 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 17:36:45.730 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 17:38:45.852 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 17:41:55.052 LabApp] Starting buffering for a7e02a3f-b409-47e5-8ad2-58c5ccaa4b34:73c5609f-632c-4f70-a1d1-151b85c92569
+[I 19:01:44.952 LabApp] Starting buffering for 87f6020a-f120-405d-86aa-dd92e243011e:c0c86f81-9956-4ab3-af5b-656ed3512016
+[I 19:01:44.956 LabApp] Starting buffering for 29c18f7f-589d-40e3-9c03-9840c32f6363:88cdb17c-d56b-47fa-a964-5e9305b94c90
+[I 20:58:16.593 LabApp] Restoring connection for 29c18f7f-589d-40e3-9c03-9840c32f6363:88cdb17c-d56b-47fa-a964-5e9305b94c90
+[I 21:12:55.883 LabApp] Starting buffering for 87f6020a-f120-405d-86aa-dd92e243011e:8c5c8a5c-b10d-4621-9743-c97b0572974c
+[I 21:12:55.884 LabApp] Starting buffering for 29c18f7f-589d-40e3-9c03-9840c32f6363:88cdb17c-d56b-47fa-a964-5e9305b94c90
+[I 21:15:32.802 LabApp] Restoring connection for 29c18f7f-589d-40e3-9c03-9840c32f6363:88cdb17c-d56b-47fa-a964-5e9305b94c90
+[I 21:20:44.246 LabApp] Starting buffering for 87f6020a-f120-405d-86aa-dd92e243011e:c0c86f81-9956-4ab3-af5b-656ed3512016
+[I 21:20:44.247 LabApp] Starting buffering for 29c18f7f-589d-40e3-9c03-9840c32f6363:88cdb17c-d56b-47fa-a964-5e9305b94c90
+[I 21:31:51.888 LabApp] Restoring connection for 29c18f7f-589d-40e3-9c03-9840c32f6363:88cdb17c-d56b-47fa-a964-5e9305b94c90
+[I 23:15:33.607 LabApp] Starting buffering for 87f6020a-f120-405d-86aa-dd92e243011e:8c5c8a5c-b10d-4621-9743-c97b0572974c
+[I 23:15:33.608 LabApp] Starting buffering for 29c18f7f-589d-40e3-9c03-9840c32f6363:88cdb17c-d56b-47fa-a964-5e9305b94c90
+[I 09:21:04.552 LabApp] Restoring connection for 29c18f7f-589d-40e3-9c03-9840c32f6363:88cdb17c-d56b-47fa-a964-5e9305b94c90
+[I 09:57:22.401 LabApp] Kernel started: e811e3d3-ac68-4443-935f-1936172ade4e, name: python3
+[I 09:57:27.603 LabApp] Starting buffering for e811e3d3-ac68-4443-935f-1936172ade4e:b5520a4b-17f6-4433-bedf-3ce7e1ffbbdb
+[I 16:01:37.825 LabApp] Starting buffering for a7e02a3f-b409-47e5-8ad2-58c5ccaa4b34:56be57ce-186e-443c-be47-5f5141476d26
+[I 16:01:37.826 LabApp] Starting buffering for 29c18f7f-589d-40e3-9c03-9840c32f6363:88cdb17c-d56b-47fa-a964-5e9305b94c90
+[I 16:01:37.826 LabApp] Starting buffering for 87f6020a-f120-405d-86aa-dd92e243011e:8c5c8a5c-b10d-4621-9743-c97b0572974c
+[I 2022-02-06 10:45:47.103 ServerApp] jupyterlab | extension was successfully linked.
+[W 2022-02-06 10:45:47.109 NotebookApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-02-06 10:45:47.121 ServerApp] Writing Jupyter server cookie secret to /home/tibvyasa/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2022-02-06 10:45:47.801 ServerApp] nbdime | extension was found and enabled by nbclassic. Consider moving the extension to Jupyter Server's extension paths.
+[I 2022-02-06 10:45:47.801 ServerApp] nbdime | extension was successfully linked.
+[I 2022-02-06 10:45:47.802 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-02-06 10:45:47.957 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-02-06 10:45:47.959 LabApp] JupyterLab extension loaded from /home/tibvyasa/miniconda3/lib/python3.8/site-packages/jupyterlab
+[I 2022-02-06 10:45:47.959 LabApp] JupyterLab application directory is /home/tibvyasa/miniconda3/share/jupyter/lab
+[I 2022-02-06 10:45:47.964 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-02-06 10:45:48.119 ServerApp] nbdime | extension was successfully loaded.
+[I 2022-02-06 10:45:48.121 ServerApp] Serving notebooks from local directory: /home/tibvyasa/projects/proj_off/local_repos/Dementia_Detection
+[I 2022-02-06 10:45:48.121 ServerApp] Jupyter Server 1.11.2 is running at:
+[I 2022-02-06 10:45:48.121 ServerApp] http://localhost:8888/lab
+[I 2022-02-06 10:45:48.121 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-02-06 10:45:48.121 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2022-02-06 10:46:19.421 LabApp] 302 GET /lab (127.0.0.1) 1.56ms
+[I 2022-02-06 10:46:22.794 ServerApp] 302 POST /login?next=%2Flab (127.0.0.1) 69.45ms
+[W 2022-02-06 10:46:26.877 LabApp] Could not determine jupyterlab build status without nodejs
+-\|/-\|/-\|/-\|/-\|/-\|[I 2022-02-06 10:46:48.489 ServerApp] Kernel started: 8ba51626-ece3-4e54-8746-0a3076a5da35
+[I 2022-02-06 10:46:50.189 ServerApp] Kernel started: 8d03a2c7-5add-4192-959c-b470f1ec3b80
+[C 2022-02-06 10:47:25.769 ServerApp] received signal 15, stopping
+[I 2022-02-06 10:47:25.770 ServerApp] Shutting down 3 extensions
+[I 2022-02-06 10:47:25.770 ServerApp] Shutting down 2 kernels
+[I 2022-02-06 10:47:25.770 ServerApp] Kernel shutdown: 8ba51626-ece3-4e54-8746-0a3076a5da35
+[I 2022-02-06 10:47:25.771 ServerApp] Kernel shutdown: 8d03a2c7-5add-4192-959c-b470f1ec3b80
+[I 2022-02-06 10:47:26.077 ServerApp] Shutting down 0 terminals
+[I 10:47:55.505 LabApp] JupyterLab extension loaded from /home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/site-packages/jupyterlab
+[I 10:47:55.506 LabApp] JupyterLab application directory is /home/tibvyasa/miniconda3/envs/dtree/share/jupyter/lab
+[I 10:47:55.512 LabApp] Serving notebooks from local directory: /home/tibvyasa/projects/proj_off/local_repos/Dementia_Detection
+[I 10:47:55.513 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 10:47:55.513 LabApp] http://localhost:8888/
+[I 10:47:55.513 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:47:55.525 LabApp] Clearing invalid/expired login cookie username-127-0-0-1-8888
+[W 10:47:55.525 LabApp] Couldn't authenticate WebSocket connection
+[W 10:47:55.526 LabApp] Clearing invalid/expired login cookie username-127-0-0-1-8888
+[W 10:47:55.526 LabApp] Clearing invalid/expired login cookie username-127-0-0-1-8888
+[W 10:47:55.575 LabApp] 403 GET /api/kernels/8d03a2c7-5add-4192-959c-b470f1ec3b80/channels?session_id=23ef83b6-a6f7-4d6d-882a-8da2067f6442 (127.0.0.1) 51.68ms referer=None
+[W 10:47:56.700 LabApp] Clearing invalid/expired login cookie username-127-0-0-1-8888
+[W 10:47:56.701 LabApp] Forbidden
+[W 10:47:56.701 LabApp] 403 GET /api/contents/prediction_model_interpretable?content=1&1644140876688 (127.0.0.1) 1.39ms referer=http://127.0.0.1:8888/lab/tree/prediction_model_interpretable/Model%204%20%7C%200%2C%20(1%2C%202)%2C%20(3%2C%204)-RF-int-score_remove_notasked_notknown.ipynb
+[I 10:47:58.867 LabApp] 302 GET /lab/tree/prediction_model_interpretable/Model%204%20%7C%200%2C%20(1%2C%202)%2C%20(3%2C%204)-RF-int-score_remove_notasked_notknown.ipynb (127.0.0.1) 0.82ms
+[W 10:47:58.886 LabApp] Couldn't authenticate WebSocket connection
+[W 10:47:58.887 LabApp] 403 GET /api/kernels/8ba51626-ece3-4e54-8746-0a3076a5da35/channels?session_id=d0183fac-5c66-4716-8ecd-4e0cb5ff72ea (127.0.0.1) 2.15ms referer=None
+[I 10:48:02.274 LabApp] 302 POST /login?next=%2Flab%2Ftree%2Fprediction_model_interpretable%2FModel%25204%2520%257C%25200%252C%2520%281%252C%25202%29%252C%2520%283%252C%25204%29-RF-int-score_remove_notasked_notknown.ipynb (127.0.0.1) 63.84ms
+[I 10:48:05.038 LabApp] Build is up to date
+[W 10:48:07.521 LabApp] 404 GET /api/contents/prediction_model_interpretable/Model%204%20%7C%200%252C%20(1%252C%202)%252C%20(3%252C%204)-RF-int-score_remove_notasked_notknown.ipynb?content=0&1644140887508 (127.0.0.1): No such file or directory: prediction_model_interpretable/Model 4 | 0%2C (1%2C 2)%2C (3%2C 4)-RF-int-score_remove_notasked_notknown.ipynb
+[W 10:48:07.521 LabApp] No such file or directory: prediction_model_interpretable/Model 4 | 0%%2C (1%%2C 2)%%2C (3%%2C 4)-RF-int-score_remove_notasked_notknown.ipynb
+[W 10:48:07.522 LabApp] 404 GET /api/contents/prediction_model_interpretable/Model%204%20%7C%200%252C%20(1%252C%202)%252C%20(3%252C%204)-RF-int-score_remove_notasked_notknown.ipynb?content=0&1644140887508 (127.0.0.1) 1.39ms referer=http://127.0.0.1:8888/lab
+[I 10:48:07.582 LabApp] Kernel started: 62786f89-5f1f-4157-a611-e6575e76f2d6, name: python3
+[I 10:48:07.595 LabApp] Kernel started: bebe3a21-a25d-4d93-9a02-2b4fa93d90eb, name: python3
+[I 10:48:07.606 LabApp] Kernel started: 9edfb262-c407-4e1c-ac43-4fb52b2bfb9a, name: python3
+[I 10:48:08.438 LabApp] Starting buffering for 9edfb262-c407-4e1c-ac43-4fb52b2bfb9a:a27d2872-c7db-4a82-8b9f-b4707edbe091
+[I 10:49:00.140 LabApp] Kernel restarted: 62786f89-5f1f-4157-a611-e6575e76f2d6
+[I 10:50:05.911 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 10:52:06.102 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 10:58:06.333 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 10:58:44.221 LabApp] Kernel restarted: 62786f89-5f1f-4157-a611-e6575e76f2d6
+[I 11:00:06.472 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:02:06.627 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:04:06.756 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:06:06.928 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:08:07.037 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:10:07.223 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:12:07.362 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:14:08.484 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:14:43.956 LabApp] Kernel restarted: 62786f89-5f1f-4157-a611-e6575e76f2d6
+[I 11:16:09.456 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:18:10.448 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:20:10.605 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:22:10.813 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 11:24:11.493 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 14:01:31.035 LabApp] Starting buffering for bebe3a21-a25d-4d93-9a02-2b4fa93d90eb:3b99a0e1-0731-45a6-bd8a-94068f81c4c9
+[I 14:01:31.036 LabApp] Starting buffering for 62786f89-5f1f-4157-a611-e6575e76f2d6:a18650b9-a0e8-4313-96d9-0ffde2495230
+[I 14:01:31.037 LabApp] Starting buffering for 9edfb262-c407-4e1c-ac43-4fb52b2bfb9a:4d5f3827-8af7-4911-8299-1398947e65a3
+[I 17:50:24.132 LabApp] Restoring connection for 9edfb262-c407-4e1c-ac43-4fb52b2bfb9a:4d5f3827-8af7-4911-8299-1398947e65a3
+[I 17:50:24.150 LabApp] Restoring connection for 62786f89-5f1f-4157-a611-e6575e76f2d6:a18650b9-a0e8-4313-96d9-0ffde2495230
+[I 17:50:24.194 LabApp] Restoring connection for bebe3a21-a25d-4d93-9a02-2b4fa93d90eb:3b99a0e1-0731-45a6-bd8a-94068f81c4c9
+[I 20:24:04.913 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 20:26:05.001 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 20:28:05.151 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 20:30:05.261 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 20:32:05.382 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 20:52:05.591 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 22:47:38.352 LabApp] Starting buffering for bebe3a21-a25d-4d93-9a02-2b4fa93d90eb:3b99a0e1-0731-45a6-bd8a-94068f81c4c9
+[I 22:47:38.354 LabApp] Starting buffering for 62786f89-5f1f-4157-a611-e6575e76f2d6:a18650b9-a0e8-4313-96d9-0ffde2495230
+[I 22:47:38.355 LabApp] Starting buffering for 9edfb262-c407-4e1c-ac43-4fb52b2bfb9a:4d5f3827-8af7-4911-8299-1398947e65a3
+[I 08:30:13.949 LabApp] Restoring connection for 62786f89-5f1f-4157-a611-e6575e76f2d6:a18650b9-a0e8-4313-96d9-0ffde2495230
+[I 08:30:14.051 LabApp] Restoring connection for bebe3a21-a25d-4d93-9a02-2b4fa93d90eb:3b99a0e1-0731-45a6-bd8a-94068f81c4c9
+[I 12:13:52.280 LabApp] Starting buffering for bebe3a21-a25d-4d93-9a02-2b4fa93d90eb:3b99a0e1-0731-45a6-bd8a-94068f81c4c9
+[I 12:13:52.282 LabApp] Starting buffering for 62786f89-5f1f-4157-a611-e6575e76f2d6:a18650b9-a0e8-4313-96d9-0ffde2495230
+[I 12:13:52.283 LabApp] Starting buffering for 9edfb262-c407-4e1c-ac43-4fb52b2bfb9a:4d5f3827-8af7-4911-8299-1398947e65a3
+[I 12:21:13.504 NotebookApp] JupyterLab extension loaded from /home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/site-packages/jupyterlab
+[I 12:21:13.505 NotebookApp] JupyterLab application directory is /home/tibvyasa/miniconda3/envs/dtree/share/jupyter/lab
+[I 12:21:13.507 NotebookApp] Serving notebooks from local directory: /home/tibvyasa/projects/proj_off/local_repos/Dementia_Detection
+[I 12:21:13.507 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 12:21:13.507 NotebookApp] http://localhost:8888/
+[I 12:21:13.507 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:21:40.041 NotebookApp] 302 GET / (127.0.0.1) 0.92ms
+[I 12:21:40.047 NotebookApp] 302 GET /tree? (127.0.0.1) 1.11ms
+[I 12:21:42.798 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 51.36ms
+[I 12:21:53.946 NotebookApp] Kernel started: a1eafcd6-c81f-4222-9514-190465d53b6a, name: python3
+[I 12:21:58.041 NotebookApp] Kernel started: 07f32401-e80c-4396-9086-de90606b5f2d, name: python3
+[I 12:31:04.271 NotebookApp] Starting buffering for 07f32401-e80c-4396-9086-de90606b5f2d:446d28f5fcc54564807d993b21677035
+[I 12:31:04.800 NotebookApp] Kernel restarted: 07f32401-e80c-4396-9086-de90606b5f2d
+[I 12:31:05.126 NotebookApp] Restoring connection for 07f32401-e80c-4396-9086-de90606b5f2d:446d28f5fcc54564807d993b21677035
+[I 12:31:05.127 NotebookApp] Replaying 3 buffered messages
+[I 12:31:09.917 NotebookApp] Starting buffering for a1eafcd6-c81f-4222-9514-190465d53b6a:d9138edc62bd4be8a2aa34853f44f830
+[I 12:31:10.127 NotebookApp] Kernel restarted: a1eafcd6-c81f-4222-9514-190465d53b6a
+[I 12:31:10.449 NotebookApp] Restoring connection for a1eafcd6-c81f-4222-9514-190465d53b6a:d9138edc62bd4be8a2aa34853f44f830
+[I 12:31:10.449 NotebookApp] Replaying 3 buffered messages
+[I 12:31:54.227 NotebookApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 12:31:58.015 NotebookApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 12:39:32.139 NotebookApp] Starting buffering for 07f32401-e80c-4396-9086-de90606b5f2d:446d28f5fcc54564807d993b21677035
+[I 12:39:33.222 NotebookApp] Starting buffering for a1eafcd6-c81f-4222-9514-190465d53b6a:d9138edc62bd4be8a2aa34853f44f830
+[C 12:39:44.611 NotebookApp] received signal 15, stopping
+[I 12:39:44.612 NotebookApp] Shutting down 2 kernels
+[I 12:39:45.215 NotebookApp] Kernel shutdown: a1eafcd6-c81f-4222-9514-190465d53b6a
+[I 12:39:45.216 NotebookApp] Kernel shutdown: 07f32401-e80c-4396-9086-de90606b5f2d
+[I 12:39:45.216 NotebookApp] Shutting down 0 terminals
+[I 12:40:22.167 LabApp] JupyterLab extension loaded from /home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/site-packages/jupyterlab
+[I 12:40:22.168 LabApp] JupyterLab application directory is /home/tibvyasa/miniconda3/envs/dtree/share/jupyter/lab
+[I 12:40:22.170 LabApp] Serving notebooks from local directory: /home/tibvyasa/projects/proj_off/local_repos/Dementia_Detection
+[I 12:40:22.170 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 12:40:22.170 LabApp] http://localhost:8888/
+[I 12:40:22.170 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:41:01.326 LabApp] received signal 15, stopping
+[I 12:41:01.326 LabApp] Shutting down 0 kernels
+[I 12:41:01.326 LabApp] Shutting down 0 terminals
+Traceback (most recent call last):
+  File "/home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/site-packages/jupyterlab/labhubapp.py", line 9, in <module>
+    from jupyterhub.singleuser import SingleUserNotebookApp
+ModuleNotFoundError: No module named 'jupyterhub'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/tibvyasa/miniconda3/envs/dtree/bin/jupyter-labhub", line 33, in <module>
+    sys.exit(load_entry_point('jupyterlab==2.2.8', 'console_scripts', 'jupyter-labhub')())
+  File "/home/tibvyasa/miniconda3/envs/dtree/bin/jupyter-labhub", line 25, in importlib_load_entry_point
+    return next(matches).load()
+  File "/home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/importlib/metadata.py", line 77, in load
+    module = import_module(match.group('module'))
+  File "/home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/site-packages/jupyterlab/labhubapp.py", line 12, in <module>
+    raise ImportError('You must have jupyterhub installed for this to work.')
+ImportError: You must have jupyterhub installed for this to work.
+[I 12:42:08.261 LabApp] JupyterLab extension loaded from /home/tibvyasa/miniconda3/envs/dtree/lib/python3.8/site-packages/jupyterlab
+[I 12:42:08.261 LabApp] JupyterLab application directory is /home/tibvyasa/miniconda3/envs/dtree/share/jupyter/lab
+[I 12:42:08.263 LabApp] Serving notebooks from local directory: /home/tibvyasa/projects/proj_off/local_repos/Dementia_Detection
+[I 12:42:08.263 LabApp] Jupyter Notebook 6.1.4 is running at:
+[I 12:42:08.263 LabApp] http://localhost:8888/
+[I 12:42:08.263 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:42:19.254 LabApp] 302 GET / (127.0.0.1) 0.55ms
+[I 12:42:21.590 LabApp] Build is up to date
+[I 12:42:23.214 LabApp] Kernel started: 380b93f4-2bf3-4f85-ae37-e162ad0bffca, name: python3
+[I 12:42:23.225 LabApp] Kernel started: 2693e081-97fd-41d3-8c9f-2150730ec8cc, name: python3
+[I 12:42:23.240 LabApp] Kernel started: 114b0dc7-4094-4276-a97a-8364654ef916, name: python3
+[I 12:42:23.820 LabApp] Starting buffering for 114b0dc7-4094-4276-a97a-8364654ef916:579940c8-081e-47df-a63a-2427eb9b5bf5
+[I 12:43:25.865 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 12:43:26.086 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 12:43:26.198 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 12:43:53.199 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 12:43:53.336 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 12:44:17.637 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 12:44:17.897 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 12:44:18.088 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 12:45:57.057 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 12:46:11.996 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 12:46:35.717 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 12:47:26.345 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 12:48:21.285 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 12:48:32.353 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 12:49:26.506 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 12:50:45.567 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 12:51:26.656 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 12:51:49.951 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 12:52:13.907 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 12:52:45.893 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 12:53:26.794 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 12:56:18.307 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 12:56:38.329 LabApp] Kernel restarted: 2693e081-97fd-41d3-8c9f-2150730ec8cc
+[I 12:58:18.474 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 12:58:37.025 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 12:58:45.134 LabApp] Kernel restarted: 2693e081-97fd-41d3-8c9f-2150730ec8cc
+[I 13:00:37.174 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:12:27.906 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 13:12:33.926 LabApp] Kernel restarted: 2693e081-97fd-41d3-8c9f-2150730ec8cc
+[I 13:12:52.207 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:13:42.186 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 13:15:23.784 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 13:15:23.985 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 13:18:21.534 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:18:21.734 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:18:21.895 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:18:22.045 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:18:22.173 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:18:22.417 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:18:22.635 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:20:14.454 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 13:21:20.402 LabApp] Kernel restarted: 2693e081-97fd-41d3-8c9f-2150730ec8cc
+[I 13:21:46.438 LabApp] Kernel restarted: 114b0dc7-4094-4276-a97a-8364654ef916
+[I 13:22:14.557 LabApp] Saving file at /prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb
+[I 13:22:27.414 LabApp] Saving file at /prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb
+[I 13:22:53.188 LabApp] Creating new directory in /
+[I 13:23:11.292 LabApp] Copying prediction_model_interpretable/Model 1s | 0, 1_RF-int-score_remove_notasked_notknown.ipynb to /final
+[I 13:23:11.417 LabApp] Copying prediction_model_interpretable/Model 4 | 0, (1, 2), (3, 4)-RF-int-score_remove_notasked_notknown.ipynb to /final
+[I 13:23:56.545 LabApp] Starting buffering for 2693e081-97fd-41d3-8c9f-2150730ec8cc:1ac247f0-6fe9-4853-9454-63b4e716b491
+[I 13:24:07.891 LabApp] Kernel started: 9a660811-cc2b-4aa4-8cdc-7ddc23b6d262, name: python3
+[I 13:24:09.645 LabApp] Kernel started: 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99, name: python3
+[I 13:24:14.700 LabApp] Kernel restarted: 9a660811-cc2b-4aa4-8cdc-7ddc23b6d262
+[I 13:24:19.935 LabApp] Kernel restarted: 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99
+[I 13:24:53.916 LabApp] Copying prediction_model_interpretable/data_variable_cat.pkl to /final
+[I 13:24:53.933 LabApp] Copying prediction_model_interpretable/defines_int.py to /final
+[I 13:24:53.938 LabApp] Copying prediction_model_interpretable/utils_int.py to /final
+[I 13:25:01.030 LabApp] Kernel restarted: 9a660811-cc2b-4aa4-8cdc-7ddc23b6d262
+[I 13:25:05.777 LabApp] Kernel restarted: 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99
+[I 13:25:33.284 LabApp] Kernel restarted: 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99
+[I 13:26:00.240 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:02.148 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:07.558 LabApp] Saving file at /final/Model_1s.ipynb
+[I 13:26:27.735 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:30.601 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:32.665 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:35.598 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:35.806 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:40.918 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:41.154 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:49.878 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:26:50.057 LabApp] Saving file at /final/Model_4.ipynb
+[W 13:27:00.858 LabApp] delete /final/model_4DT
+[W 13:27:00.870 LabApp] delete /final/model_4DT.pdf
+[W 13:27:00.872 LabApp] delete /final/model_4DT.svg
+[W 13:27:08.531 LabApp] delete /final/model_1DT
+[W 13:27:08.533 LabApp] delete /final/model_1DT.pdf
+[W 13:27:08.535 LabApp] delete /final/model_1DT.svg
+[I 13:27:50.398 LabApp] Saving file at /final/Model_1s.ipynb
+[I 13:27:57.942 LabApp] Kernel restarted: 9a660811-cc2b-4aa4-8cdc-7ddc23b6d262
+[I 13:28:03.476 LabApp] Kernel restarted: 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99
+[I 13:28:29.226 LabApp] Copying final/Model_4.ipynb to /final
+[I 13:28:50.160 LabApp] Saving file at /final/Model_4.ipynb
+[I 13:29:10.593 LabApp] Kernel started: cae72068-550f-412f-94ca-f75073f1f1c9, name: python3
+[I 13:29:29.963 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:29:30.244 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:29:30.425 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:29:50.587 LabApp] Saving file at /final/Model_1s.ipynb
+[I 13:31:39.916 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:31:49.476 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:17.245 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:17.438 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:17.614 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:17.803 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:18.294 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:18.753 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:18.975 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:36.723 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:36.945 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:32:37.095 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:33:01.356 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:33:01.637 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:33:01.968 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:33:07.278 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 13:33:31.845 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:33:37.119 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 13:35:32.155 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:57:05.298 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:57:05.451 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:57:49.386 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:58:07.794 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 13:58:18.509 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 13:58:50.044 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 13:59:17.970 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 13:59:31.163 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 13:59:50.471 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 14:00:07.884 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 14:00:15.247 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 14:00:26.561 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 14:00:38.014 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 14:00:49.367 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 14:01:00.461 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 14:01:12.769 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 14:01:33.098 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 14:01:53.524 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 14:02:07.981 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 15:01:35.936 LabApp] Copying final/Model_4.ipynb to /final
+[I 15:01:54.562 LabApp] Starting buffering for cae72068-550f-412f-94ca-f75073f1f1c9:a16a2694-71c3-438d-8659-829f7c6410ad
+[I 15:01:56.024 LabApp] Starting buffering for 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99:d9b98be2-face-4ed2-99d9-a3e5ca32615e
+[I 15:01:57.447 LabApp] Starting buffering for 9a660811-cc2b-4aa4-8cdc-7ddc23b6d262:b3a4f52d-850a-4574-8764-6af199ac8ef8
+[I 15:02:02.614 LabApp] Kernel started: 96535bea-8787-4350-83e4-a3387f8f7fdc, name: python3
+[I 15:02:49.310 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 15:02:49.541 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 15:35:24.725 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 15:36:23.196 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 15:41:01.423 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 15:41:30.213 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 15:43:01.512 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 15:44:46.831 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 15:45:50.815 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 15:46:47.185 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 15:48:41.196 LabApp] Copying final/Model_1s.ipynb to /final
+[I 15:48:55.412 LabApp] Kernel started: 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a, name: python3
+[I 15:49:25.057 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:49:39.407 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:50:04.207 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:51:00.981 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:51:01.267 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:51:01.396 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:51:01.647 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:51:15.085 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 15:51:27.634 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 15:51:31.795 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 15:52:10.665 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 15:52:15.625 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 15:53:18.754 LabApp] Copying final/Model_1s_from_4.ipynb to /final
+[I 15:53:33.455 LabApp] Starting buffering for cae72068-550f-412f-94ca-f75073f1f1c9:fbf9f312-e382-4658-b4de-768654d96aef
+[I 15:53:35.526 LabApp] Starting buffering for 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a:90bdb289-cc69-4e3e-aaa1-5daa74e85369
+[I 15:53:39.557 LabApp] Starting buffering for 96535bea-8787-4350-83e4-a3387f8f7fdc:c8a60a91-10cd-40c4-b645-0872ee06d449
+[I 15:53:40.405 LabApp] Starting buffering for 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99:796a15b0-7156-4a59-839d-347f060cea53
+[I 15:53:43.606 LabApp] Kernel started: 3502856e-cdb5-405a-8932-3a8dde8f8c0d, name: python3
+[I 15:54:05.239 LabApp] Kernel restarted: 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a
+[I 15:54:18.274 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:54:25.719 LabApp] Kernel restarted: 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a
+[I 15:54:37.315 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:54:42.176 LabApp] Kernel restarted: 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a
+[I 15:55:08.599 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:55:08.752 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:55:13.821 LabApp] Kernel restarted: 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a
+[I 15:55:28.394 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 15:55:34.374 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 15:55:39.494 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 15:56:26.764 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 15:56:49.717 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 15:56:49.884 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 15:56:54.449 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 15:57:08.958 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:57:12.889 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:57:18.990 LabApp] Kernel restarted: 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a
+[I 15:57:28.907 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 15:57:34.313 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 15:59:13.228 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 15:59:29.157 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:09:49.288 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 16:09:54.467 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 16:09:58.774 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 16:10:02.989 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 16:10:08.658 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 16:10:22.144 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 16:10:22.439 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 16:12:03.362 LabApp] Kernel restarted: 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a
+[I 16:12:22.629 LabApp] Saving file at /final/Model_1s_nopre.ipynb
+[I 16:16:26.094 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:16:26.376 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:16:26.635 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:16:26.855 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:16:27.085 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:18:27.254 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:18:39.449 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:18:39.775 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:18:39.967 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:18:40.254 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:18:40.415 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:18:40.665 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:18:40.895 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:18:41.016 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:33:54.298 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 16:34:08.287 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 16:34:52.204 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:36:01.854 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 16:36:02.354 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 16:36:07.228 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 16:36:52.375 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:39:08.336 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:39:08.529 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:39:08.735 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:42:24.686 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:42:24.946 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:43:48.641 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 16:43:51.316 LabApp] Starting buffering for cae72068-550f-412f-94ca-f75073f1f1c9:c6ce26fd-61c6-4fa2-9b58-3e1a2ce59ec6
+[I 16:43:54.556 LabApp] Starting buffering for 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a:52d2b55b-c989-49d6-a79e-37b936d9ff82
+[I 16:44:25.164 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 17:49:15.678 LabApp] Starting buffering for 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99:ed909917-9b54-4754-8693-77d047ae77f6
+[I 17:49:15.679 LabApp] Starting buffering for 3502856e-cdb5-405a-8932-3a8dde8f8c0d:0ea5ab26-0dc7-4e1b-b6f5-1cbe6a434bc1
+[I 17:49:15.680 LabApp] Starting buffering for 114b0dc7-4094-4276-a97a-8364654ef916:ea74859d-e4f3-417b-8205-4c04e1259e62
+[I 17:49:15.681 LabApp] Starting buffering for 380b93f4-2bf3-4f85-ae37-e162ad0bffca:ad10eb90-02e4-4d0e-b5fe-139f33de4780
+[I 09:29:25.571 LabApp] Restoring connection for 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99:ed909917-9b54-4754-8693-77d047ae77f6
+[I 09:29:25.595 LabApp] Restoring connection for 3502856e-cdb5-405a-8932-3a8dde8f8c0d:0ea5ab26-0dc7-4e1b-b6f5-1cbe6a434bc1
+[I 09:29:25.647 LabApp] Restoring connection for 380b93f4-2bf3-4f85-ae37-e162ad0bffca:ad10eb90-02e4-4d0e-b5fe-139f33de4780
+[I 10:09:08.697 LabApp] Starting buffering for 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99:ed909917-9b54-4754-8693-77d047ae77f6
+[I 10:10:25.811 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:10:42.167 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:10:42.415 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:10:42.578 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:12:19.595 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:12:34.149 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:13:20.548 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:13:41.385 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:13:53.359 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:14:10.294 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:14:28.126 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:14:39.794 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:15:04.686 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 10:15:28.253 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:15:32.237 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:15:48.904 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 10:16:10.649 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:16:18.074 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 10:16:58.852 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 10:17:37.573 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:17:37.760 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:17:45.473 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 10:18:06.477 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:18:10.865 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 10:18:39.330 LabApp] Starting buffering for 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99:0e840c22-e88f-4fc3-819a-0cdcf8c69777
+[I 10:18:56.002 LabApp] Starting buffering for 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99:058501ce-b8c7-4ed8-a847-83fa7a88b3e6
+[I 10:20:06.632 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 10:53:13.545 LabApp] Starting buffering for 3502856e-cdb5-405a-8932-3a8dde8f8c0d:0ea5ab26-0dc7-4e1b-b6f5-1cbe6a434bc1
+[I 10:54:12.747 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:54:31.388 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:54:44.965 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 10:55:00.217 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:55:10.307 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:55:16.687 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:55:33.287 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:55:33.415 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:55:40.210 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 10:56:24.527 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:56:29.560 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 10:56:42.588 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:57:07.217 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:57:13.260 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 10:59:07.288 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 10:59:19.933 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 11:01:07.376 LabApp] Saving file at /final/Model_4_no_preproc.ipynb
+[I 11:03:07.455 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:05:58.142 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:05:58.487 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:05:58.627 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:06:05.173 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 11:06:05.911 LabApp] Starting buffering for 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99:908b65e0-54da-4ff8-96e6-fe6c739c5960
+[I 11:06:33.127 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:06:33.359 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:06:33.537 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:06:38.912 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 11:07:22.360 LabApp] Kernel restarted: 96535bea-8787-4350-83e4-a3387f8f7fdc
+[I 11:08:33.624 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:10:41.947 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:10:42.247 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:10:42.417 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:10:48.243 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:10:48.547 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:10:48.671 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:10:54.213 LabApp] Kernel restarted: 3502856e-cdb5-405a-8932-3a8dde8f8c0d
+[I 11:11:57.186 LabApp] Kernel restarted: cae72068-550f-412f-94ca-f75073f1f1c9
+[I 11:12:48.799 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:13:50.625 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 11:20:14.115 LabApp] Starting buffering for 3502856e-cdb5-405a-8932-3a8dde8f8c0d:ef9f738a-7d54-477f-a654-8ed7ed3d8319
+[I 11:20:15.621 LabApp] Starting buffering for cae72068-550f-412f-94ca-f75073f1f1c9:a61e330d-3731-4766-b270-22f0fc54b6a5
+[I 11:20:17.654 LabApp] Starting buffering for 96535bea-8787-4350-83e4-a3387f8f7fdc:73afb6c3-661b-411b-b05d-9fc43d55960a
+[I 11:20:35.407 LabApp] Kernel shutdown: 7b5741ae-fc7b-48aa-95d5-0b6d30ca693a
+[W 11:20:35.929 LabApp] delete /final/Model_1s_nopre.ipynb
+[I 11:40:13.442 LabApp] Copying final/Model_4.ipynb to /final
+[I 11:40:27.737 LabApp] Kernel started: dd4ea685-e71a-4cbb-9447-b526132c2487, name: python3
+[I 11:42:27.294 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:43:10.971 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 11:44:27.650 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:45:51.215 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 11:46:27.787 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:48:27.907 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:49:02.642 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 11:49:08.286 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 11:49:22.815 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 11:49:28.858 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 11:50:28.038 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:52:28.157 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:53:33.207 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:53:43.297 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:54:01.424 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 11:55:43.407 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:56:32.567 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 11:57:32.253 LabApp] Starting buffering for 89a5b6cc-a3af-4fb5-b1ec-400b17f70f99:8f7bdd60-c629-4018-b9ca-cf82230e4eb4
+[I 11:57:41.276 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 11:57:43.527 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 11:59:43.677 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 12:00:49.047 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 12:00:49.268 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 12:01:00.727 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 12:01:00.879 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 12:01:12.469 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 12:01:12.677 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 12:01:22.127 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 12:01:22.266 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 12:01:23.905 LabApp] Starting buffering for cae72068-550f-412f-94ca-f75073f1f1c9:069cf6c5-d47e-4968-be7c-f409b469ac7c
+[I 12:01:25.638 LabApp] Starting buffering for 3502856e-cdb5-405a-8932-3a8dde8f8c0d:d290ba49-3de0-4609-8107-c74172509809
+[I 12:01:27.063 LabApp] Starting buffering for 9a660811-cc2b-4aa4-8cdc-7ddc23b6d262:94f34cae-9511-48b9-8a26-5add9d089af3
+[I 12:01:28.319 LabApp] Starting buffering for 96535bea-8787-4350-83e4-a3387f8f7fdc:f627acf4-3ebf-49b6-911b-7f365a93355b
+[I 12:01:39.674 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 12:02:00.717 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 12:02:49.407 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 12:16:21.548 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 12:17:46.645 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 12:21:12.058 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 12:21:47.687 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 12:23:48.667 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 12:28:42.948 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 12:29:14.931 LabApp] Kernel restarted: dd4ea685-e71a-4cbb-9447-b526132c2487
+[I 12:29:50.639 LabApp] Saving file at /final/Model_4_patients.ipynb

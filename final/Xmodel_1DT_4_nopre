@@ -1,0 +1,349 @@
+
+digraph G {
+    splines=line;
+    nodesep=0.1;
+    ranksep=.2;
+    rankdir=TD;
+    margin=0.0;
+    node [margin="0.03" penwidth="0.5" width=.1, height=.1];
+    edge [arrowsize=.4 penwidth="0.3"]
+
+    node5 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 820<br/>DEPRESSED MOOD</font>>]
+	node8 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 125<br/>PLANTAR REFLEXES</font>>]
+	node4 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 945<br/>RECALLS OBJECTS</font>>]
+	node12 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 37<br/>FEELING DEPRESSED</font>>]
+	node15 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 19<br/>IDENTIFIES DAY OF WEEK</font>>]
+	node11 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 56<br/>IDENTIFIES DATE</font>>]
+	node3 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 1001<br/>NUMBER OF ANIMALS LISTED</font>>]
+	node1 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 1005<br/>OPTIMA DIAGNOSES V 2010: COGNITIVE IMPAIRMENT</font>>]
+	node20 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 7<br/>WRITES A SENTENCE</font>>]
+	node25 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 85<br/>MEMORY PROBLEM</font>>]
+	node23 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 166<br/>SUBTRACTING SEVENS</font>>]
+	node19 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 173<br/>OPTIMA DIAGNOSES V 2010: COGNITIVE IMPAIRMENT</font>>]
+	node30 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 21<br/>RECALLS OBJECTS</font>>]
+	node33 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 19<br/>ANXIOUS</font>>]
+	node29 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 40<br/>IDENTIFIES DATE</font>>]
+	node37 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 66<br/>KNOWS RECENT NEWS ITEM</font>>]
+	node40 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 426<br/>NAMES PICTURES: TYPEWRITER</font>>]
+	node36 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 492<br/>IDENTIFIES DATE</font>>]
+	node28 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 532<br/>RECALLS ADDRESS</font>>]
+	node18 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 705<br/>NUMBER OF ANIMALS LISTED</font>>]
+	node0 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 1710<br/>RECALLS OBJECTS</font>>]
+    node5 -> leaf6 [penwidth=0.3 color="#444443" label=<&lt;5>]
+	node5 -> leaf7 [penwidth=0.3 color="#444443" label=<&ge;5>]
+	
+            {
+                rank=same;
+                leaf6 -> leaf7 [style=invis]
+            }
+            
+	node8 -> leaf9 [penwidth=0.3 color="#444443" label=<&lt;3>]
+	node8 -> leaf10 [penwidth=0.3 color="#444443" label=<&ge;3>]
+	
+            {
+                rank=same;
+                leaf9 -> leaf10 [style=invis]
+            }
+            
+	node4 -> node5 [penwidth=0.3 color="#444443" label=<&lt;2>]
+	node4 -> node8 [penwidth=0.3 color="#444443" label=<&ge;2>]
+	
+            {
+                rank=same;
+                node5 -> node8 [style=invis]
+            }
+            
+	node12 -> leaf13 [penwidth=0.3 color="#444443" label=<&lt;2>]
+	node12 -> leaf14 [penwidth=0.3 color="#444443" label=<&ge;2>]
+	
+            {
+                rank=same;
+                leaf13 -> leaf14 [style=invis]
+            }
+            
+	node15 -> leaf16 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node15 -> leaf17 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                leaf16 -> leaf17 [style=invis]
+            }
+            
+	node11 -> node12 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node11 -> node15 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                node12 -> node15 [style=invis]
+            }
+            
+	node3 -> node4 [penwidth=0.3 color="#444443" label=<&lt;19>]
+	node3 -> node11 [penwidth=0.3 color="#444443" label=<&ge;19>]
+	
+            {
+                rank=same;
+                node4 -> node11 [style=invis]
+            }
+            
+	node1 -> leaf2 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node1 -> node3 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                leaf2 -> node3 [style=invis]
+            }
+            
+	node20 -> leaf21 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node20 -> leaf22 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                leaf21 -> leaf22 [style=invis]
+            }
+            
+	node25 -> leaf26 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node25 -> leaf27 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                leaf26 -> leaf27 [style=invis]
+            }
+            
+	node23 -> leaf24 [penwidth=0.3 color="#444443" label=<&lt;3>]
+	node23 -> node25 [penwidth=0.3 color="#444443" label=<&ge;3>]
+	
+            {
+                rank=same;
+                leaf24 -> node25 [style=invis]
+            }
+            
+	node19 -> node20 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node19 -> node23 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                node20 -> node23 [style=invis]
+            }
+            
+	node30 -> leaf31 [penwidth=0.3 color="#444443" label=<&lt;5>]
+	node30 -> leaf32 [penwidth=0.3 color="#444443" label=<&ge;5>]
+	
+            {
+                rank=same;
+                leaf31 -> leaf32 [style=invis]
+            }
+            
+	node33 -> leaf34 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node33 -> leaf35 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                leaf34 -> leaf35 [style=invis]
+            }
+            
+	node29 -> node30 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node29 -> node33 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                node30 -> node33 [style=invis]
+            }
+            
+	node37 -> leaf38 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node37 -> leaf39 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                leaf38 -> leaf39 [style=invis]
+            }
+            
+	node40 -> leaf41 [penwidth=0.3 color="#444443" label=<&lt;5>]
+	node40 -> leaf42 [penwidth=0.3 color="#444443" label=<&ge;5>]
+	
+            {
+                rank=same;
+                leaf41 -> leaf42 [style=invis]
+            }
+            
+	node36 -> node37 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node36 -> node40 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	
+            {
+                rank=same;
+                node37 -> node40 [style=invis]
+            }
+            
+	node28 -> node29 [penwidth=0.3 color="#444443" label=<&lt;4>]
+	node28 -> node36 [penwidth=0.3 color="#444443" label=<&ge;4>]
+	
+            {
+                rank=same;
+                node29 -> node36 [style=invis]
+            }
+            
+	node18 -> node19 [penwidth=0.3 color="#444443" label=<&lt;13>]
+	node18 -> node28 [penwidth=0.3 color="#444443" label=<&ge;13>]
+	
+            {
+                rank=same;
+                node19 -> node28 [style=invis]
+            }
+            
+	node0 -> node1 [penwidth=0.3 color="#444443" label=<&lt;2>]
+	node0 -> node18 [penwidth=0.3 color="#444443" label=<&ge;2>]
+	
+            {
+                rank=same;
+                node1 -> node18 [style=invis]
+            }
+            
+    leaf2 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf2_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf6 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf6_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf7 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf7_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf9 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf9_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf10 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf10_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf13 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf13_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf14 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf14_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf16 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf16_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf17 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf17_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf21 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf21_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf22 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf22_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf24 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf24_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf26 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf26_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf27 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf27_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf31 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf31_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf32 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf32_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf34 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf34_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf35 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf35_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf38 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf38_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf39 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf39_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf41 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf41_3221.svg"/></td>
+        </tr>
+        </table>>]
+	leaf42 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
+        
+        <tr>
+                <td><img src="/tmp/leaf42_3221.svg"/></td>
+        </tr>
+        </table>>]
+
+    
+            subgraph cluster_legend {
+                style=invis;
+                legend [penwidth="0" margin="0" shape=box margin="0.03" width=.1, height=.1 label=<
+                
+        <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td border="0" cellspacing="0" cellpadding="0"><img src="/tmp/legend_3221.svg"/></td>
+            </tr>
+        </table>
+        
+                >]
+            }
+            
+    
+}
+    
