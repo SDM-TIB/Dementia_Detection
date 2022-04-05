@@ -899,3 +899,34 @@ ImportError: You must have jupyterhub installed for this to work.
 [I 12:00:51.892 LabApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 12:52:58.979 LabApp] Discarding 12 buffered messages for b082995b-d3eb-40dc-89bd-14f1700170f1:da3bce48-924c-446b-923d-7c432a5c2f84
+[I 12:57:11.408 LabApp] Kernel restarted: b082995b-d3eb-40dc-89bd-14f1700170f1
+[I 12:58:58.135 LabApp] Saving file at /final/Model_4_patients.ipynb
+[I 15:31:11.890 LabApp] Kernel restarted: e8f38212-8aac-48af-aea5-1e33b7390848
+[I 15:32:15.981 LabApp] Saving file at /final/Model_1s_from_4_patients.ipynb
+[I 15:35:55.494 LabApp] Starting buffering for e8f38212-8aac-48af-aea5-1e33b7390848:b06d035b-b2a2-4db4-800d-4cf997c52b8d
+[I 15:35:56.318 LabApp] Starting buffering for b082995b-d3eb-40dc-89bd-14f1700170f1:a2f9ca31-d3a1-4ae0-929b-7ae83209eab1
+[I 16:36:39.507 LabApp] Starting buffering for 478c7006-f035-4c60-ab43-7e803c494484:8e78691c-1fb5-495e-8107-2fbd3c7bb1f7
+[I 16:36:40.364 LabApp] Starting buffering for 04a840d7-ec20-49c3-bd3a-100027f366bf:5b16b165-045f-49f7-a709-8cf2beab1eeb
+[I 16:37:59.665 LabApp] Kernel restarted: 81842adc-cbb8-49bc-87b3-efeda5129ecd
+[I 16:38:10.507 LabApp] Kernel restarted: 1211a92a-44e3-4ddc-a8e8-cf99530619e1
+[I 16:39:02.807 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:39:07.104 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 16:39:51.955 LabApp] Kernel restarted: 1211a92a-44e3-4ddc-a8e8-cf99530619e1
+[I 16:39:56.856 LabApp] Kernel restarted: 81842adc-cbb8-49bc-87b3-efeda5129ecd
+[I 16:41:02.905 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:41:07.212 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 16:43:00.719 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 16:43:05.509 LabApp] Kernel restarted: 81842adc-cbb8-49bc-87b3-efeda5129ecd
+[I 16:43:32.383 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 16:43:37.141 LabApp] Kernel restarted: 81842adc-cbb8-49bc-87b3-efeda5129ecd
+[I 16:45:32.921 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 16:46:21.853 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 16:46:22.078 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 16:46:26.547 LabApp] Kernel restarted: 81842adc-cbb8-49bc-87b3-efeda5129ecd
+[I 16:47:31.166 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:47:35.822 LabApp] Kernel restarted: 1211a92a-44e3-4ddc-a8e8-cf99530619e1
+[I 16:48:22.176 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 16:48:46.669 LabApp] Starting buffering for 81842adc-cbb8-49bc-87b3-efeda5129ecd:5cf6146d-0ab6-437b-aef1-94bd24487e0e
+[I 16:48:52.576 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 16:48:52.647 LabApp] Starting buffering for 1211a92a-44e3-4ddc-a8e8-cf99530619e1:e1cbd26e-713f-4c18-90d3-854e4dfbe505
