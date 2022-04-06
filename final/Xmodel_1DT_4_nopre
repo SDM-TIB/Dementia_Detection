@@ -11,20 +11,20 @@ digraph G {
     node5 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 805<br/>RECALLS OBJECTS: BAROMETER</font>>]
 	node8 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 38<br/>RECALLS OBJECTS 2: TABLE</font>>]
 	node4 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 843<br/>RECALLS OBJECTS: SUITCASE</font>>]
-	node12 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 80<br/>COGNITIVE EXAM 162-187: HANDED</font>>]
+	node12 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 80<br/>HANDED</font>>]
 	node15 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 36<br/>Age At Episode</font>>]
 	node11 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 116<br/>RECALLS OBJECTS 2: TABLE</font>>]
 	node3 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 959<br/>IDENTIFIES DATE</font>>]
-	node1 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 974<br/>OPTIMA DIAGNOSES V 2010: COGNITIVE IMPAIRMENT</font>>]
-	node22 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 156<br/>OPTIMA DIAGNOSES V 2010: COGNITIVE IMPAIRMENT</font>>]
-	node20 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 157<br/>COGNITIVE EXAM 162-187: HANDED</font>>]
+	node1 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 974<br/>COGNITIVE IMPAIRMENT</font>>]
+	node22 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 156<br/>HANDED</font>>]
+	node20 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 157<br/>COGNITIVE IMPAIRMENT</font>>]
 	node26 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 145<br/>DRAWS HOUSE</font>>]
 	node29 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 1591<br/>IDENTIFIES MONTH</font>>]
 	node25 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 1736<br/>DRAWS PENTAGON</font>>]
 	node19 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 1893<br/>IDENTIFIES YEAR</font>>]
-	node36 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 300<br/>OPTIMA DIAGNOSES V 2010: CERBRO-VASCULAR DISEASE PRESENT</font>>]
+	node36 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 300<br/>CERBRO-VASCULAR DISEASE PRESENT</font>>]
 	node34 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 301<br/>Age At Episode</font>>]
-	node32 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 308<br/>OPTIMA DIAGNOSES V 2010: COGNITIVE IMPAIRMENT</font>>]
+	node32 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 308<br/>COGNITIVE IMPAIRMENT</font>>]
 	node18 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 2201<br/>WRITES A SENTENCE</font>>]
 	node0 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 3175<br/>KNOWS RECENT NEWS ITEM</font>>]
     node5 -> leaf6 [penwidth=0.3 color="#444443" label=<&lt;1>]
@@ -91,16 +91,16 @@ digraph G {
                 leaf2 -> node3 [style=invis]
             }
             
-	node22 -> leaf23 [penwidth=0.3 color="#444443" label=<&lt;1>]
-	node22 -> leaf24 [penwidth=0.3 color="#444443" label=<&ge;1>]
+	node22 -> leaf23 [penwidth=0.3 color="#444443" label=<&lt;6>]
+	node22 -> leaf24 [penwidth=0.3 color="#444443" label=<&ge;6>]
 	
             {
                 rank=same;
                 leaf23 -> leaf24 [style=invis]
             }
             
-	node20 -> leaf21 [penwidth=0.3 color="#444443" label=<&lt;6>]
-	node20 -> node22 [penwidth=0.3 color="#444443" label=<&ge;6>]
+	node20 -> leaf21 [penwidth=0.3 color="#444443" label=<&lt;1>]
+	node20 -> node22 [penwidth=0.3 color="#444443" label=<&ge;1>]
 	
             {
                 rank=same;
@@ -182,121 +182,121 @@ digraph G {
     leaf2 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf2_18899.svg"/></td>
+                <td><img src="/tmp/leaf2_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf6 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf6_18899.svg"/></td>
+                <td><img src="/tmp/leaf6_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf7 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf7_18899.svg"/></td>
+                <td><img src="/tmp/leaf7_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf9 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf9_18899.svg"/></td>
+                <td><img src="/tmp/leaf9_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf10 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf10_18899.svg"/></td>
+                <td><img src="/tmp/leaf10_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf13 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf13_18899.svg"/></td>
+                <td><img src="/tmp/leaf13_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf14 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf14_18899.svg"/></td>
+                <td><img src="/tmp/leaf14_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf16 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf16_18899.svg"/></td>
+                <td><img src="/tmp/leaf16_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf17 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf17_18899.svg"/></td>
+                <td><img src="/tmp/leaf17_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf21 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf21_18899.svg"/></td>
+                <td><img src="/tmp/leaf21_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf23 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf23_18899.svg"/></td>
+                <td><img src="/tmp/leaf23_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf24 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf24_18899.svg"/></td>
+                <td><img src="/tmp/leaf24_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf27 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf27_18899.svg"/></td>
+                <td><img src="/tmp/leaf27_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf28 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf28_18899.svg"/></td>
+                <td><img src="/tmp/leaf28_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf30 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf30_18899.svg"/></td>
+                <td><img src="/tmp/leaf30_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf31 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf31_18899.svg"/></td>
+                <td><img src="/tmp/leaf31_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf33 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf33_18899.svg"/></td>
+                <td><img src="/tmp/leaf33_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf35 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf35_18899.svg"/></td>
+                <td><img src="/tmp/leaf35_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf37 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf37_18899.svg"/></td>
+                <td><img src="/tmp/leaf37_28086.svg"/></td>
         </tr>
         </table>>]
 	leaf38 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf38_18899.svg"/></td>
+                <td><img src="/tmp/leaf38_28086.svg"/></td>
         </tr>
         </table>>]
 
@@ -307,7 +307,7 @@ digraph G {
                 
         <table border="0" cellspacing="0" cellpadding="0">
             <tr>
-                <td border="0" cellspacing="0" cellpadding="0"><img src="/tmp/legend_18899.svg"/></td>
+                <td border="0" cellspacing="0" cellpadding="0"><img src="/tmp/legend_28086.svg"/></td>
             </tr>
         </table>
         

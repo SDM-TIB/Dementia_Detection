@@ -982,3 +982,25 @@ TermSocket.open: Opened 1
 [I 11:01:22.936 LabApp] Kernel restarted: 478c7006-f035-4c60-ab43-7e803c494484
 [I 11:02:55.401 LabApp] Saving file at /final/Model_4.ipynb
 [I 11:03:12.200 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 11:19:07.648 LabApp] Starting buffering for 478c7006-f035-4c60-ab43-7e803c494484:09734409-1979-4e7d-862f-8c72e786121f
+[I 11:19:08.278 LabApp] Starting buffering for 04a840d7-ec20-49c3-bd3a-100027f366bf:d7918d6e-64aa-4a71-986c-d139f0e528c9
+[I 11:19:21.019 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:19:33.138 LabApp] Kernel shutdown: e1ff2b22-cf23-4d09-8e73-4d1b42e63455
+[W 11:19:33.353 LabApp] delete /final/Model_1s.ipynb
+[I 11:19:40.424 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:19:46.143 LabApp] Kernel restarted: 81842adc-cbb8-49bc-87b3-efeda5129ecd
+[I 11:19:51.285 LabApp] Kernel restarted: 1211a92a-44e3-4ddc-a8e8-cf99530619e1
+[I 11:21:21.105 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:21:40.510 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:23:21.228 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:23:40.632 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:24:38.209 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:24:38.459 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:24:38.640 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:24:38.811 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:24:44.502 LabApp] Kernel restarted: 1211a92a-44e3-4ddc-a8e8-cf99530619e1
+[I 11:24:49.109 LabApp] Kernel restarted: 81842adc-cbb8-49bc-87b3-efeda5129ecd
+[I 11:25:21.313 LabApp] Saving file at /final/Model_4_nopre.ipynb
+[I 11:25:44.264 LabApp] Saving file at /final/Model_1s_from_4_nopre.ipynb
+[I 11:25:44.327 LabApp] Starting buffering for 1211a92a-44e3-4ddc-a8e8-cf99530619e1:7785ed4a-af2e-426e-b270-55ed6aa3efcd
+[I 11:25:45.537 LabApp] Starting buffering for 81842adc-cbb8-49bc-87b3-efeda5129ecd:06d9f7e3-fa5b-4aa4-bbc4-4b8414d2e284
