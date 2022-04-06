@@ -952,3 +952,33 @@ TermSocket.open: Opened 1
 [I 17:05:42.524 LabApp] Saving file at /final/Model_1s_from_4.ipynb
 [I 17:05:54.343 LabApp] Kernel restarted: 478c7006-f035-4c60-ab43-7e803c494484
 [I 17:07:30.970 LabApp] Saving file at /final/Model_4.ipynb
+[I 17:11:47.446 LabApp] Starting buffering for 04a840d7-ec20-49c3-bd3a-100027f366bf:d7918d6e-64aa-4a71-986c-d139f0e528c9
+[I 17:11:47.447 LabApp] Starting buffering for 478c7006-f035-4c60-ab43-7e803c494484:09734409-1979-4e7d-862f-8c72e786121f
+Websocket closed
+[I 17:11:47.449 LabApp] Starting buffering for 86ff2359-5bff-4d1f-b28c-d4b3b40605cf:4937d5db-d557-4e4d-8112-af988e6e2bf3
+[I 10:46:16.551 LabApp] Restoring connection for 04a840d7-ec20-49c3-bd3a-100027f366bf:d7918d6e-64aa-4a71-986c-d139f0e528c9
+[I 10:46:16.568 LabApp] Restoring connection for 478c7006-f035-4c60-ab43-7e803c494484:09734409-1979-4e7d-862f-8c72e786121f
+[I 10:46:16.584 LabApp] Restoring connection for 86ff2359-5bff-4d1f-b28c-d4b3b40605cf:4937d5db-d557-4e4d-8112-af988e6e2bf3
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 10:52:14.863 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 10:53:08.975 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 10:53:09.233 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 10:53:09.397 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 10:53:27.107 LabApp] Saving file at /final/Model_4.ipynb
+[I 10:53:27.326 LabApp] Saving file at /final/Model_4.ipynb
+[I 10:53:32.042 LabApp] Kernel restarted: 478c7006-f035-4c60-ab43-7e803c494484
+[I 10:53:40.357 LabApp] Kernel restarted: 04a840d7-ec20-49c3-bd3a-100027f366bf
+[I 10:55:09.489 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 10:55:27.425 LabApp] Saving file at /final/Model_4.ipynb
+[I 11:00:54.687 LabApp] Saving file at /final/Model_4.ipynb
+[I 11:00:54.950 LabApp] Saving file at /final/Model_4.ipynb
+[I 11:00:55.126 LabApp] Saving file at /final/Model_4.ipynb
+[I 11:00:55.276 LabApp] Saving file at /final/Model_4.ipynb
+[I 11:01:11.671 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 11:01:11.942 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 11:01:12.113 LabApp] Saving file at /final/Model_1s_from_4.ipynb
+[I 11:01:18.176 LabApp] Kernel restarted: 04a840d7-ec20-49c3-bd3a-100027f366bf
+[I 11:01:22.936 LabApp] Kernel restarted: 478c7006-f035-4c60-ab43-7e803c494484
+[I 11:02:55.401 LabApp] Saving file at /final/Model_4.ipynb
+[I 11:03:12.200 LabApp] Saving file at /final/Model_1s_from_4.ipynb

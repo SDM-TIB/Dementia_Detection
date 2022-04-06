@@ -18,7 +18,7 @@ digraph G {
 	node19 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 135<br/>IDENTIFIES PRESENT PLACE::Correct</font>>]
 	node22 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 450<br/>IDENTIFIES TOWN::Correct</font>>]
 	node18 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 585<br/>SUBTRACTING SEVENS</font>>]
-	node26 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 116<br/>COGNITIVE EXAM 162-187: ACTUAL DURATION OF INTERVIEW</font>>]
+	node26 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 116<br/>ACTUAL DURATION OF INTERVIEW</font>>]
 	node29 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 158<br/>RECOGNISES PICTURES: BAROMETER::Correct</font>>]
 	node25 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 274<br/>NUMBER OF ANIMALS LISTED</font>>]
 	node17 [margin="0" shape=none label=<<font face="Helvetica" color="#444443" point-size="12">Sample: 859<br/>KNOWS RECENT NEWS ITEM::Correct</font>>]
@@ -272,181 +272,181 @@ digraph G {
     leaf5 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf5_21624.svg"/></td>
+                <td><img src="/tmp/leaf5_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf6 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf6_21624.svg"/></td>
+                <td><img src="/tmp/leaf6_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf8 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf8_21624.svg"/></td>
+                <td><img src="/tmp/leaf8_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf9 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf9_21624.svg"/></td>
+                <td><img src="/tmp/leaf9_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf12 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf12_21624.svg"/></td>
+                <td><img src="/tmp/leaf12_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf13 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf13_21624.svg"/></td>
+                <td><img src="/tmp/leaf13_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf15 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf15_21624.svg"/></td>
+                <td><img src="/tmp/leaf15_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf16 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf16_21624.svg"/></td>
+                <td><img src="/tmp/leaf16_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf20 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf20_21624.svg"/></td>
+                <td><img src="/tmp/leaf20_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf21 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf21_21624.svg"/></td>
+                <td><img src="/tmp/leaf21_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf23 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf23_21624.svg"/></td>
+                <td><img src="/tmp/leaf23_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf24 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf24_21624.svg"/></td>
+                <td><img src="/tmp/leaf24_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf27 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf27_21624.svg"/></td>
+                <td><img src="/tmp/leaf27_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf28 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf28_21624.svg"/></td>
+                <td><img src="/tmp/leaf28_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf30 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf30_21624.svg"/></td>
+                <td><img src="/tmp/leaf30_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf31 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf31_21624.svg"/></td>
+                <td><img src="/tmp/leaf31_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf36 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf36_21624.svg"/></td>
+                <td><img src="/tmp/leaf36_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf37 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf37_21624.svg"/></td>
+                <td><img src="/tmp/leaf37_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf38 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf38_21624.svg"/></td>
+                <td><img src="/tmp/leaf38_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf41 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf41_21624.svg"/></td>
+                <td><img src="/tmp/leaf41_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf42 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf42_21624.svg"/></td>
+                <td><img src="/tmp/leaf42_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf44 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf44_21624.svg"/></td>
+                <td><img src="/tmp/leaf44_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf45 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf45_21624.svg"/></td>
+                <td><img src="/tmp/leaf45_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf49 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf49_21624.svg"/></td>
+                <td><img src="/tmp/leaf49_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf50 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf50_21624.svg"/></td>
+                <td><img src="/tmp/leaf50_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf52 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf52_21624.svg"/></td>
+                <td><img src="/tmp/leaf52_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf53 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf53_21624.svg"/></td>
+                <td><img src="/tmp/leaf53_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf55 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf55_21624.svg"/></td>
+                <td><img src="/tmp/leaf55_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf57 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf57_21624.svg"/></td>
+                <td><img src="/tmp/leaf57_24344.svg"/></td>
         </tr>
         </table>>]
 	leaf58 [margin="0" shape=box penwidth="0" color="#444443" label=<<table border="0" CELLBORDER="0">
         
         <tr>
-                <td><img src="/tmp/leaf58_21624.svg"/></td>
+                <td><img src="/tmp/leaf58_24344.svg"/></td>
         </tr>
         </table>>]
 
@@ -457,7 +457,7 @@ digraph G {
                 
         <table border="0" cellspacing="0" cellpadding="0">
             <tr>
-                <td border="0" cellspacing="0" cellpadding="0"><img src="/tmp/legend_21624.svg"/></td>
+                <td border="0" cellspacing="0" cellpadding="0"><img src="/tmp/legend_24344.svg"/></td>
             </tr>
         </table>
         

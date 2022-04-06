@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="3088.0" height="461.0" viewBox="0.0 0.0 3087.5 461.0">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="2849.0" height="461.0" viewBox="0.0 0.0 2848.5 461.0">
 <g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0) translate(4 457)">
 <title>G</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-457 3083.5,-457 3083.5,4 -4,4" />
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-457 2844.5,-457 2844.5,4 -4,4" />
 <g id="clust30" class="cluster">
 <title>cluster_legend</title>
 </g>
@@ -20,7 +20,7 @@
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.626869</dc:date>
+    <dc:date>2022-04-06T11:01:23.996924</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -99,7 +99,7 @@
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.659428</dc:date>
+    <dc:date>2022-04-06T11:01:24.032363</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -174,21 +174,21 @@
 
 <g id="node2" class="node">
 <title>node3</title>
-<text text-anchor="start" x="169.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 756</text>
-<text text-anchor="start" x="106.5" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">KNOWS PRIME MINISTER::Correct</text>
+<text text-anchor="start" x="239.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 756</text>
+<text text-anchor="start" x="176.5" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">KNOWS PRIME MINISTER::Correct</text>
 </g>
 
 <g id="edge5" class="edge">
 <title>node3-&gt;node5</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M203.81,-227.68C199.43,-213.04 192.11,-188.59 187.29,-172.5" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="188.61,-172.03 186.12,-168.6 185.93,-172.83 188.61,-172.03" />
-<text text-anchor="start" x="201.5" y="-208.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M263.48,-227.68C246.41,-212.67 217.58,-187.34 199.32,-171.29" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="200.19,-170.19 196.27,-168.6 198.35,-172.29 200.19,-170.19" />
+<text text-anchor="start" x="255.5" y="-208.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="node5" class="node">
 <title>node8</title>
-<text text-anchor="start" x="378.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 82</text>
-<text text-anchor="start" x="355" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECALLS ADDRESS</text>
+<text text-anchor="start" x="432.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 82</text>
+<text text-anchor="start" x="409" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECALLS ADDRESS</text>
 </g>
 
 
@@ -200,7 +200,7 @@
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.582345</dc:date>
+    <dc:date>2022-04-06T11:01:23.948206</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -263,9 +263,9 @@
 
 <g id="edge4" class="edge">
 <title>node3-&gt;leaf4</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M182.2,-227.86C152.92,-213.81 104.42,-190.53 70.81,-174.4" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="71.41,-173.14 67.2,-172.67 70.2,-175.66 71.41,-173.14" />
-<text text-anchor="start" x="146.5" y="-208.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M242.28,-227.95C196.71,-212.35 117.65,-185.3 70.99,-169.33" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="71.38,-167.98 67.14,-168.01 70.47,-170.63 71.38,-167.98" />
+<text text-anchor="start" x="183.5" y="-208.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="node3" class="node">
@@ -276,8 +276,8 @@
 
 <g id="node4" class="node">
 <title>node12</title>
-<text text-anchor="start" x="451.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 14</text>
-<text text-anchor="start" x="397" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
+<text text-anchor="start" x="475.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 14</text>
+<text text-anchor="start" x="396.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED: SCORE</text>
 </g>
 
 
@@ -289,7 +289,7 @@
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.697017</dc:date>
+    <dc:date>2022-04-06T11:01:24.073848</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -363,7 +363,7 @@
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.736856</dc:date>
+    <dc:date>2022-04-06T11:01:24.111994</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -433,13 +433,13 @@
 
 <g id="node35" class="node">
 <title>leaf13</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="476,-60.5 435,-60.5 435,-22.5 476,-22.5 476,-60.5" />
-<svg height="30px" version="1.1" viewBox="0 0 44.019844 39.517622" width="33px" preserveAspectRatio="xMinYMin meet" x="439.5" y="-56.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="499,-60.5 458,-60.5 458,-22.5 499,-22.5 499,-60.5" />
+<svg height="30px" version="1.1" viewBox="0 0 44.019844 39.517622" width="33px" preserveAspectRatio="xMinYMin meet" x="462.5" y="-56.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.784221</dc:date>
+    <dc:date>2022-04-06T11:01:24.156982</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -501,20 +501,20 @@
 
 <g id="edge10" class="edge">
 <title>node12-&gt;leaf13</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M482.17,-142.09C477.16,-123.35 467.57,-87.58 461.37,-64.4" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="462.71,-64.01 460.32,-60.51 460.01,-64.73 462.71,-64.01" />
-<text text-anchor="start" x="472.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;14</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M506.06,-142.09C500.88,-123.35 490.98,-87.58 484.56,-64.4" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="485.9,-63.99 483.48,-60.51 483.2,-64.73 485.9,-63.99" />
+<text text-anchor="start" x="496.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;4</text>
 </g>
 
 <g id="node36" class="node">
 <title>leaf14</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="543,-58.5 490,-58.5 490,-24.5 543,-24.5 543,-58.5" />
-<svg height="26px" version="1.1" viewBox="0 0 59.120156 34.492344" width="45px" preserveAspectRatio="xMinYMin meet" x="494.5" y="-54.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="566,-58.5 513,-58.5 513,-24.5 566,-24.5 566,-58.5" />
+<svg height="26px" version="1.1" viewBox="0 0 59.120156 34.492344" width="45px" preserveAspectRatio="xMinYMin meet" x="517.5" y="-54.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.827585</dc:date>
+    <dc:date>2022-04-06T11:01:24.197807</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -579,67 +579,67 @@
 
 <g id="edge11" class="edge">
 <title>node12-&gt;leaf14</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M488.94,-142.09C494.27,-122.81 504.6,-85.51 510.98,-62.43" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="512.33,-62.8 512.05,-58.57 509.63,-62.06 512.33,-62.8" />
-<text text-anchor="start" x="504.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;14</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M512.83,-142.09C517.97,-122.89 527.9,-85.82 534.08,-62.72" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="535.51,-62.8 535.19,-58.57 532.81,-62.08 535.51,-62.8" />
+<text text-anchor="start" x="526.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;4</text>
 </g>
 
 <g id="edge13" class="edge">
 <title>node8-&gt;node9</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M401.43,-227.68C388.06,-212.79 365.57,-187.75 351.14,-171.69" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="352.08,-170.64 348.37,-168.6 350,-172.51 352.08,-170.64" />
-<text text-anchor="start" x="394.5" y="-208.8" font-family="Times,serif" font-size="14.00">&lt;5</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M447.74,-227.86C424.43,-212.77 384.7,-187.05 359.84,-170.96" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="360.4,-169.65 356.28,-168.66 358.88,-172.01 360.4,-169.65" />
+<text text-anchor="start" x="432.5" y="-208.8" font-family="Times,serif" font-size="14.00">&lt;5</text>
 </g>
 
 <g id="edge14" class="edge">
 <title>node8-&gt;node12</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M423.27,-227.68C436.29,-212.79 458.18,-187.75 472.22,-171.69" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="473.34,-172.53 474.92,-168.6 471.23,-170.69 473.34,-172.53" />
-<text text-anchor="start" x="442.5" y="-208.8" font-family="Times,serif" font-size="14.00">&#8805;5</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M472.84,-227.68C480.38,-213.04 492.98,-188.59 501.26,-172.5" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="502.68,-172.8 503.27,-168.6 500.19,-171.51 502.68,-172.8" />
+<text text-anchor="start" x="484.5" y="-208.8" font-family="Times,serif" font-size="14.00">&#8805;5</text>
 </g>
 
 <g id="node6" class="node">
 <title>node2</title>
-<text text-anchor="start" x="564.5" y="-301.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 838</text>
-<text text-anchor="start" x="525.5" y="-288.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">IDENTIFIES DATE::Correct</text>
+<text text-anchor="start" x="536.5" y="-301.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 838</text>
+<text text-anchor="start" x="497.5" y="-288.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">IDENTIFIES DATE::Correct</text>
 </g>
 
 <g id="edge16" class="edge">
 <title>node2-&gt;node3</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M525.4,-286.26C460.24,-277.19 366.81,-264.18 298.09,-254.61" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="298.17,-253.21 294.02,-254.05 297.79,-255.98 298.17,-253.21" />
-<text text-anchor="start" x="452.5" y="-265.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M509.69,-285C461.46,-276.07 395.75,-263.9 346.54,-254.79" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="346.62,-253.38 342.43,-254.02 346.11,-256.13 346.62,-253.38" />
+<text text-anchor="start" x="461.5" y="-265.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="edge17" class="edge">
 <title>node2-&gt;node8</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M560.8,-284.93C530.49,-276.15 489.46,-264.28 458.24,-255.24" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="458.33,-253.81 454.1,-254.04 457.55,-256.5 458.33,-253.81" />
-<text text-anchor="start" x="530.5" y="-265.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M550.8,-284.93C534.06,-276.4 511.57,-264.95 494.04,-256.02" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="494.35,-254.61 490.15,-254.04 493.07,-257.1 494.35,-254.61" />
+<text text-anchor="start" x="533.5" y="-265.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="node12" class="node">
 <title>node15</title>
-<text text-anchor="start" x="831.5" y="-301.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 297</text>
-<text text-anchor="start" x="781" y="-288.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
+<text text-anchor="start" x="776.5" y="-301.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 297</text>
+<text text-anchor="start" x="726" y="-288.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
 </g>
 
 
 <g id="node7" class="node">
 <title>node17</title>
-<text text-anchor="start" x="728.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 140</text>
-<text text-anchor="start" x="580.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">COGNITIVE EXAM 162-187: ACTUAL DURATION OF INTERVIEW</text>
+<text text-anchor="start" x="694.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 140</text>
+<text text-anchor="start" x="629.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">ACTUAL DURATION OF INTERVIEW</text>
 </g>
 
 <g id="node37" class="node">
 <title>leaf18</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="753,-56.5 700,-56.5 700,-26.5 753,-26.5 753,-56.5" />
-<svg height="22px" version="1.1" viewBox="0 0 59.120156 29.467064" width="45px" preserveAspectRatio="xMinYMin meet" x="704.5" y="-52.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="722,-56.5 669,-56.5 669,-26.5 722,-26.5 722,-56.5" />
+<svg height="22px" version="1.1" viewBox="0 0 59.120156 29.467064" width="45px" preserveAspectRatio="xMinYMin meet" x="673.5" y="-52.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.868298</dc:date>
+    <dc:date>2022-04-06T11:01:24.236870</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -704,20 +704,20 @@
 
 <g id="edge19" class="edge">
 <title>node17-&gt;leaf18</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M762.07,-142.09C754.99,-122.27 741.11,-83.41 732.94,-60.53" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="734.25,-60.02 731.58,-56.73 731.61,-60.97 734.25,-60.02" />
-<text text-anchor="start" x="749.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;22</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M728.4,-142.09C721.85,-122.27 709.02,-83.41 701.46,-60.53" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="702.78,-60.09 700.2,-56.73 700.13,-60.96 702.78,-60.09" />
+<text text-anchor="start" x="716.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;22</text>
 </g>
 
 <g id="node38" class="node">
 <title>leaf19</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="834,-83 767,-83 767,0 834,0 834,-83" />
-<svg height="75px" version="1.1" viewBox="0 0 78.519989 100.44913" width="59px" preserveAspectRatio="xMinYMin meet" x="771.5" y="-78.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="803,-83 736,-83 736,0 803,0 803,-83" />
+<svg height="75px" version="1.1" viewBox="0 0 78.519989 100.44913" width="59px" preserveAspectRatio="xMinYMin meet" x="740.5" y="-78.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.914889</dc:date>
+    <dc:date>2022-04-06T11:01:24.280174</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -783,20 +783,20 @@
 
 <g id="edge20" class="edge">
 <title>node17-&gt;leaf19</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M770.27,-142.09C774.3,-128.79 780.94,-106.92 786.98,-87.05" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="788.35,-87.34 788.17,-83.11 785.67,-86.53 788.35,-87.34" />
-<text text-anchor="start" x="786.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;22</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M736.6,-142.09C740.99,-128.79 748.22,-106.92 754.78,-87.05" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="756.16,-87.35 756.08,-83.11 753.5,-86.47 756.16,-87.35" />
+<text text-anchor="start" x="753.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;22</text>
 </g>
 
 <g id="node39" class="node">
 <title>leaf20</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1019,-171 966,-171 966,-140 1019,-140 1019,-171" />
-<svg height="23px" version="1.1" viewBox="0 0 59.120156 30.723384" width="45px" preserveAspectRatio="xMinYMin meet" x="970.5" y="-166.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="902,-171 849,-171 849,-140 902,-140 902,-171" />
+<svg height="23px" version="1.1" viewBox="0 0 59.120156 30.723384" width="45px" preserveAspectRatio="xMinYMin meet" x="853.5" y="-166.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.958265</dc:date>
+    <dc:date>2022-04-06T11:01:24.318923</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -862,53 +862,53 @@
 
 <g id="node8" class="node">
 <title>node16</title>
-<text text-anchor="start" x="785.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 142</text>
-<text text-anchor="start" x="637.5" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">COGNITIVE EXAM 162-187: ACTUAL DURATION OF INTERVIEW</text>
+<text text-anchor="start" x="739.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 142</text>
+<text text-anchor="start" x="674.5" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">ACTUAL DURATION OF INTERVIEW</text>
 </g>
 
 <g id="edge22" class="edge">
 <title>node16-&gt;node17</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M815.09,-227.68C805.01,-212.92 788.12,-188.17 777.14,-172.09" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="778.17,-171.11 774.76,-168.6 775.86,-172.69 778.17,-171.11" />
-<text text-anchor="start" x="810.5" y="-208.8" font-family="Times,serif" font-size="14.00">&lt;118</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M770.86,-227.68C762.97,-213.04 749.79,-188.59 741.12,-172.5" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="742.15,-171.46 739.02,-168.6 739.69,-172.79 742.15,-171.46" />
+<text text-anchor="start" x="767.5" y="-208.8" font-family="Times,serif" font-size="14.00">&lt;118</text>
 </g>
 
 <g id="node11" class="node">
 <title>node21</title>
-<text text-anchor="start" x="1123.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 155</text>
-<text text-anchor="start" x="1023" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECOGNISES PICTURES: BAROMETER::Correct</text>
+<text text-anchor="start" x="994.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 155</text>
+<text text-anchor="start" x="894" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECOGNISES PICTURES: BAROMETER::Correct</text>
 </g>
 
 
 <g id="edge23" class="edge">
 <title>node16-&gt;leaf20</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M848.07,-227.86C878.25,-212.95 929.43,-187.66 962.06,-171.54" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="962.98,-172.65 965.94,-169.62 961.74,-170.14 962.98,-172.65" />
-<text text-anchor="start" x="930.5" y="-208.8" font-family="Times,serif" font-size="14.00">&#8805;118</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M791.96,-227.68C808.67,-213.44 836.28,-189.91 855.16,-173.83" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="856.2,-174.78 858.34,-171.12 854.39,-172.65 856.2,-174.78" />
+<text text-anchor="start" x="828.5" y="-208.8" font-family="Times,serif" font-size="14.00">&#8805;118</text>
 </g>
 
 <g id="node9" class="node">
 <title>node22</title>
-<text text-anchor="start" x="1080.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 23</text>
-<text text-anchor="start" x="1026" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
+<text text-anchor="start" x="989.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 23</text>
+<text text-anchor="start" x="909" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECALLS OBJECTS: SUITCASE::Correct</text>
 </g>
 
 <g id="node10" class="node">
 <title>node25</title>
-<text text-anchor="start" x="1250.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 132</text>
-<text text-anchor="start" x="1217" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">DRAWS HOUSE::Correct</text>
+<text text-anchor="start" x="1185.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 132</text>
+<text text-anchor="start" x="1152" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">DRAWS HOUSE::Correct</text>
 </g>
 
 
 <g id="node40" class="node">
 <title>leaf23</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1102,-66.5 1061,-66.5 1061,-16.5 1102,-16.5 1102,-66.5" />
-<svg height="42px" version="1.1" viewBox="0 0 44.019844 55.849778" width="33px" preserveAspectRatio="xMinYMin meet" x="1065.5" y="-62.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1013,-66.5 972,-66.5 972,-16.5 1013,-16.5 1013,-66.5" />
+<svg height="42px" version="1.1" viewBox="0 0 44.019844 55.849778" width="33px" preserveAspectRatio="xMinYMin meet" x="976.5" y="-62.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.004320</dc:date>
+    <dc:date>2022-04-06T11:01:24.378692</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -971,20 +971,20 @@
 
 <g id="edge25" class="edge">
 <title>node22-&gt;leaf23</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1110.84,-142.09C1105.8,-124.97 1096.56,-93.62 1089.8,-70.65" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1091.12,-70.2 1088.65,-66.76 1088.43,-70.99 1091.12,-70.2" />
-<text text-anchor="start" x="1095.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;22</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1020.06,-142.09C1015.33,-124.97 1006.65,-93.62 1000.29,-70.65" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1001.63,-70.24 999.21,-66.76 998.93,-70.99 1001.63,-70.24" />
+<text text-anchor="start" x="1010.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="node41" class="node">
 <title>leaf24</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1169,-56.5 1116,-56.5 1116,-26.5 1169,-26.5 1169,-56.5" />
-<svg height="22px" version="1.1" viewBox="0 0 59.120156 29.467064" width="45px" preserveAspectRatio="xMinYMin meet" x="1120.5" y="-52.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1080,-56.5 1027,-56.5 1027,-26.5 1080,-26.5 1080,-56.5" />
+<svg height="22px" version="1.1" viewBox="0 0 59.120156 29.467064" width="45px" preserveAspectRatio="xMinYMin meet" x="1031.5" y="-52.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.047497</dc:date>
+    <dc:date>2022-04-06T11:01:24.419271</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1049,20 +1049,20 @@
 
 <g id="edge26" class="edge">
 <title>node22-&gt;leaf24</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1117.6,-142.09C1122.54,-122.36 1132.19,-83.73 1137.92,-60.82" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1139.33,-60.95 1138.94,-56.73 1136.61,-60.27 1139.33,-60.95" />
-<text text-anchor="start" x="1130.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;22</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1026.83,-142.09C1032.11,-122.36 1042.46,-83.73 1048.59,-60.82" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1050.01,-60.95 1049.69,-56.73 1047.3,-60.23 1050.01,-60.95" />
+<text text-anchor="start" x="1040.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="node42" class="node">
 <title>leaf26</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1257,-65.5 1216,-65.5 1216,-17.5 1257,-17.5 1257,-65.5" />
-<svg height="40px" version="1.1" viewBox="0 0 44.019844 53.337144" width="33px" preserveAspectRatio="xMinYMin meet" x="1220.5" y="-61.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1192,-65.5 1151,-65.5 1151,-17.5 1192,-17.5 1192,-65.5" />
+<svg height="40px" version="1.1" viewBox="0 0 44.019844 53.337144" width="33px" preserveAspectRatio="xMinYMin meet" x="1155.5" y="-61.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.092772</dc:date>
+    <dc:date>2022-04-06T11:01:24.464007</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1126,20 +1126,20 @@
 
 <g id="edge28" class="edge">
 <title>node25-&gt;leaf26</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1282.74,-142.09C1274.69,-124.75 1259.87,-92.83 1249.17,-69.79" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1250.31,-68.93 1247.36,-65.89 1247.77,-70.1 1250.31,-68.93" />
-<text text-anchor="start" x="1266.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1217.74,-142.09C1209.69,-124.75 1194.87,-92.83 1184.17,-69.79" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1185.31,-68.93 1182.36,-65.89 1182.77,-70.1 1185.31,-68.93" />
+<text text-anchor="start" x="1201.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="node43" class="node">
 <title>leaf27</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1338,-83 1271,-83 1271,0 1338,0 1338,-83" />
-<svg height="75px" version="1.1" viewBox="0 0 78.519997 100.449142" width="59px" preserveAspectRatio="xMinYMin meet" x="1275.5" y="-78.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1273,-83 1206,-83 1206,0 1273,0 1273,-83" />
+<svg height="75px" version="1.1" viewBox="0 0 78.519997 100.449142" width="59px" preserveAspectRatio="xMinYMin meet" x="1210.5" y="-78.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.139051</dc:date>
+    <dc:date>2022-04-06T11:01:24.520976</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1210,88 +1210,88 @@
 
 <g id="edge29" class="edge">
 <title>node25-&gt;leaf27</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1290.27,-142.09C1292.16,-128.9 1295.25,-107.28 1298.06,-87.55" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1299.52,-87.27 1298.7,-83.11 1296.75,-86.87 1299.52,-87.27" />
-<text text-anchor="start" x="1297.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1225.27,-142.09C1227.16,-128.9 1230.25,-107.28 1233.06,-87.55" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1234.52,-87.27 1233.7,-83.11 1231.75,-86.87 1234.52,-87.27" />
+<text text-anchor="start" x="1231.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="edge31" class="edge">
 <title>node21-&gt;node22</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1154.56,-227.68C1146.26,-212.92 1132.33,-188.17 1123.28,-172.09" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1124.49,-171.4 1121.31,-168.6 1122.05,-172.77 1124.49,-171.4" />
-<text text-anchor="start" x="1150.5" y="-208.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1031.17,-227.68C1029.61,-213.17 1027,-189 1025.27,-172.91" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1026.62,-172.43 1024.8,-168.6 1023.84,-172.73 1026.62,-172.43" />
+<text text-anchor="start" x="1030.5" y="-208.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="edge32" class="edge">
 <title>node21-&gt;node25</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1179.97,-227.86C1202.92,-212.77 1242.03,-187.05 1266.51,-170.96" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1267.44,-172.02 1270.01,-168.66 1265.9,-169.68 1267.44,-172.02" />
-<text text-anchor="start" x="1214.5" y="-208.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1060.27,-227.86C1095.31,-212.54 1155.41,-186.27 1192.09,-170.23" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1192.9,-171.41 1196,-168.52 1191.78,-168.84 1192.9,-171.41" />
+<text text-anchor="start" x="1121.5" y="-208.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="edge34" class="edge">
 <title>node15-&gt;node16</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M859.29,-284.79C852.5,-276.68 843.53,-265.95 836.27,-257.27" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="837.32,-256.34 833.68,-254.17 835.17,-258.14 837.32,-256.34" />
-<text text-anchor="start" x="852.5" y="-265.8" font-family="Times,serif" font-size="14.00">&lt;13</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M806.29,-284.79C800.92,-276.82 793.87,-266.33 788.08,-257.73" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="789.08,-256.71 785.69,-254.17 786.76,-258.27 789.08,-256.71" />
+<text text-anchor="start" x="800.5" y="-265.8" font-family="Times,serif" font-size="14.00">&lt;13</text>
 </g>
 
 <g id="edge35" class="edge">
 <title>node15-&gt;node21</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M933.22,-285C980.64,-276.07 1045.24,-263.9 1093.62,-254.79" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1093.99,-256.14 1097.66,-254.02 1093.47,-253.39 1093.99,-256.14" />
-<text text-anchor="start" x="1050.5" y="-265.8" font-family="Times,serif" font-size="14.00">&#8805;13</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M862.07,-285C897.13,-276.15 944.77,-264.13 980.77,-255.05" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="981.12,-256.41 984.65,-254.07 980.43,-253.69 981.12,-256.41" />
+<text text-anchor="start" x="949.5" y="-265.8" font-family="Times,serif" font-size="14.00">&#8805;13</text>
 </g>
 
 <g id="node13" class="node">
 <title>node1</title>
-<text text-anchor="start" x="1134" y="-358.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1135</text>
-<text text-anchor="start" x="1063.5" y="-345.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">KNOWS RECENT NEWS ITEM::Correct</text>
+<text text-anchor="start" x="1022" y="-358.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1135</text>
+<text text-anchor="start" x="951.5" y="-345.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">KNOWS RECENT NEWS ITEM::Correct</text>
 </g>
 
 <g id="edge37" class="edge">
 <title>node1-&gt;node2</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1063.32,-343.23C951.65,-332.51 782.98,-316.32 683.67,-306.79" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="683.69,-305.39 679.58,-306.4 683.43,-308.17 683.69,-305.39" />
-<text text-anchor="start" x="963.5" y="-322.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M956.79,-342C866.37,-331.83 738.63,-317.46 656.18,-308.19" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="655.93,-306.75 651.8,-307.69 655.61,-309.53 655.93,-306.75" />
+<text text-anchor="start" x="877.5" y="-322.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="edge38" class="edge">
 <title>node1-&gt;node15</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1108.73,-342C1059.04,-333.07 991.33,-320.9 940.63,-311.79" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="940.58,-310.35 936.4,-311.02 940.09,-313.11 940.58,-310.35" />
-<text text-anchor="start" x="1059.5" y="-322.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1009.16,-342C968.96,-333.12 914.27,-321.04 873.09,-311.94" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="873.36,-310.57 869.15,-311.07 872.75,-313.3 873.36,-310.57" />
+<text text-anchor="start" x="969.5" y="-322.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="node28" class="node">
 <title>node28</title>
-<text text-anchor="start" x="1470" y="-358.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1370</text>
-<text text-anchor="start" x="1423" y="-345.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
+<text text-anchor="start" x="1336" y="-358.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1370</text>
+<text text-anchor="start" x="1289" y="-345.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
 </g>
 
 
 <g id="node14" class="node">
 <title>node31</title>
-<text text-anchor="start" x="1421.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 76</text>
-<text text-anchor="start" x="1367" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
+<text text-anchor="start" x="1356.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 76</text>
+<text text-anchor="start" x="1302" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
 </g>
 
 <g id="node15" class="node">
 <title>node34</title>
-<text text-anchor="start" x="1645" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 7</text>
-<text text-anchor="start" x="1558" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECOGNISES PICTURES: SHOE::Correct</text>
+<text text-anchor="start" x="1573" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 7</text>
+<text text-anchor="start" x="1492" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">CLOCK DRAWING: NUMBERS::Correct</text>
 </g>
 
 
 <g id="node44" class="node">
 <title>leaf32</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1454,-83 1387,-83 1387,0 1454,0 1454,-83" />
-<svg height="75px" version="1.1" viewBox="0 0 78.52 100.449144" width="59px" preserveAspectRatio="xMinYMin meet" x="1391.5" y="-78.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1389,-83 1322,-83 1322,0 1389,0 1389,-83" />
+<svg height="75px" version="1.1" viewBox="0 0 78.52 100.449144" width="59px" preserveAspectRatio="xMinYMin meet" x="1326.5" y="-78.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.183072</dc:date>
+    <dc:date>2022-04-06T11:01:24.563567</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1352,20 +1352,20 @@
 
 <g id="edge40" class="edge">
 <title>node31-&gt;leaf32</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1451.62,-142.09C1447.47,-128.79 1440.63,-106.92 1434.42,-87.05" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1435.72,-86.51 1433.19,-83.11 1433.05,-87.34 1435.72,-86.51" />
-<text text-anchor="start" x="1437.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;12</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1386.62,-142.09C1382.47,-128.79 1375.63,-106.92 1369.42,-87.05" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1370.72,-86.51 1368.19,-83.11 1368.05,-87.34 1370.72,-86.51" />
+<text text-anchor="start" x="1372.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;12</text>
 </g>
 
 <g id="node45" class="node">
 <title>leaf33</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1509,-60.5 1468,-60.5 1468,-22.5 1509,-22.5 1509,-60.5" />
-<svg height="30px" version="1.1" viewBox="0 0 44.019844 39.517622" width="33px" preserveAspectRatio="xMinYMin meet" x="1472.5" y="-56.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1444,-60.5 1403,-60.5 1403,-22.5 1444,-22.5 1444,-60.5" />
+<svg height="30px" version="1.1" viewBox="0 0 44.019844 39.517622" width="33px" preserveAspectRatio="xMinYMin meet" x="1407.5" y="-56.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.228487</dc:date>
+    <dc:date>2022-04-06T11:01:24.615877</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1427,20 +1427,20 @@
 
 <g id="edge41" class="edge">
 <title>node31-&gt;leaf33</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1459.16,-142.09C1464.68,-123.35 1475.22,-87.58 1482.05,-64.4" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1483.41,-64.74 1483.19,-60.51 1480.72,-63.95 1483.41,-64.74" />
-<text text-anchor="start" x="1473.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;12</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1394.16,-142.09C1399.68,-123.35 1410.22,-87.58 1417.05,-64.4" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1418.41,-64.74 1418.19,-60.51 1415.72,-63.95 1418.41,-64.74" />
+<text text-anchor="start" x="1408.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;12</text>
 </g>
 
 <g id="node46" class="node">
 <title>leaf35</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1665,-58 1624,-58 1624,-25 1665,-25 1665,-58" />
-<svg height="25px" version="1.1" viewBox="0 0 44.019844 33.236024" width="33px" preserveAspectRatio="xMinYMin meet" x="1628.5" y="-53.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1593,-58 1552,-58 1552,-25 1593,-25 1593,-58" />
+<svg height="25px" version="1.1" viewBox="0 0 44.019844 33.236024" width="33px" preserveAspectRatio="xMinYMin meet" x="1556.5" y="-53.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.268261</dc:date>
+    <dc:date>2022-04-06T11:01:24.675410</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1499,20 +1499,20 @@
 
 <g id="edge43" class="edge">
 <title>node34-&gt;leaf35</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1672.06,-142.09C1666.72,-122.78 1656.37,-85.4 1649.99,-62.33" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1651.26,-61.68 1648.85,-58.2 1648.56,-62.43 1651.26,-61.68" />
-<text text-anchor="start" x="1661.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1600.06,-142.09C1594.72,-122.78 1584.37,-85.4 1577.99,-62.33" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1579.26,-61.68 1576.85,-58.2 1576.56,-62.43 1579.26,-61.68" />
+<text text-anchor="start" x="1589.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="node47" class="node">
 <title>leaf36</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1732,-57.5 1679,-57.5 1679,-25.5 1732,-25.5 1732,-57.5" />
-<svg height="24px" version="1.1" viewBox="0 0 59.120156 31.979704" width="45px" preserveAspectRatio="xMinYMin meet" x="1683.5" y="-53.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1660,-57.5 1607,-57.5 1607,-25.5 1660,-25.5 1660,-57.5" />
+<svg height="24px" version="1.1" viewBox="0 0 59.120156 31.979704" width="45px" preserveAspectRatio="xMinYMin meet" x="1611.5" y="-53.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.305771</dc:date>
+    <dc:date>2022-04-06T11:01:24.714574</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1580,60 +1580,60 @@
 
 <g id="edge44" class="edge">
 <title>node34-&gt;leaf36</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1678.83,-142.09C1684.02,-122.68 1694.12,-84.99 1700.29,-61.95" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1701.71,-62.05 1701.39,-57.83 1699.01,-61.33 1701.71,-62.05" />
-<text text-anchor="start" x="1691.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1606.83,-142.09C1612.02,-122.68 1622.12,-84.99 1628.29,-61.95" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1629.71,-62.05 1629.39,-57.83 1627.01,-61.33 1629.71,-62.05" />
+<text text-anchor="start" x="1619.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="node16" class="node">
 <title>node30</title>
-<text text-anchor="start" x="1648.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 83</text>
-<text text-anchor="start" x="1637" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Age At Episode</text>
+<text text-anchor="start" x="1571.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 83</text>
+<text text-anchor="start" x="1560" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Age At Episode</text>
 </g>
 
 <g id="edge46" class="edge">
 <title>node30-&gt;node31</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1649.49,-227.86C1607.6,-212.45 1535.55,-185.95 1492.04,-169.94" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1492.42,-168.59 1488.18,-168.52 1491.45,-171.22 1492.42,-168.59" />
-<text text-anchor="start" x="1621.5" y="-208.8" font-family="Times,serif" font-size="14.00">&lt;87</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1574.24,-227.86C1534.64,-212.48 1466.6,-186.05 1425.36,-170.04" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1425.69,-168.66 1421.45,-168.52 1424.67,-171.27 1425.69,-168.66" />
+<text text-anchor="start" x="1550.5" y="-208.8" font-family="Times,serif" font-size="14.00">&lt;87</text>
 </g>
 
 <g id="edge47" class="edge">
 <title>node30-&gt;node34</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1681.47,-227.68C1680.25,-213.17 1678.22,-189 1676.88,-172.91" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1678.24,-172.47 1676.51,-168.6 1675.45,-172.7 1678.24,-172.47" />
-<text text-anchor="start" x="1680.5" y="-208.8" font-family="Times,serif" font-size="14.00">&#8805;87</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1605.2,-227.68C1604.86,-213.17 1604.28,-189 1603.89,-172.91" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1605.29,-172.57 1603.79,-168.6 1602.49,-172.63 1605.29,-172.57" />
+<text text-anchor="start" x="1604.5" y="-208.8" font-family="Times,serif" font-size="14.00">&#8805;87</text>
 </g>
 
 <g id="node19" class="node">
 <title>node37</title>
-<text text-anchor="start" x="1818.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 109</text>
-<text text-anchor="start" x="1744.5" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">KNOWS RECENT NEWS ITEM::Correct</text>
+<text text-anchor="start" x="1739.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 109</text>
+<text text-anchor="start" x="1665.5" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">KNOWS RECENT NEWS ITEM::Correct</text>
 </g>
 
 
 <g id="node17" class="node">
 <title>node38</title>
-<text text-anchor="start" x="1824.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 28</text>
-<text text-anchor="start" x="1800.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">SIMILARITIES - LIFE</text>
+<text text-anchor="start" x="1745.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 28</text>
+<text text-anchor="start" x="1721.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">SIMILARITIES - LIFE</text>
 </g>
 
 <g id="node18" class="node">
 <title>node41</title>
-<text text-anchor="start" x="1976.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 81</text>
-<text text-anchor="start" x="1930.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">SIMILARITIES - FURNITURE</text>
+<text text-anchor="start" x="1897.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 81</text>
+<text text-anchor="start" x="1851.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">SIMILARITIES - FURNITURE</text>
 </g>
 
 
 <g id="node48" class="node">
 <title>leaf39</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1852,-65 1811,-65 1811,-18 1852,-18 1852,-65" />
-<svg height="39px" version="1.1" viewBox="0 0 44.019844 52.080824" width="33px" preserveAspectRatio="xMinYMin meet" x="1815.5" y="-60.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1776,-65 1735,-65 1735,-18 1776,-18 1776,-65" />
+<svg height="39px" version="1.1" viewBox="0 0 44.019844 52.080824" width="33px" preserveAspectRatio="xMinYMin meet" x="1739.5" y="-60.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.345680</dc:date>
+    <dc:date>2022-04-06T11:01:24.757740</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1694,20 +1694,20 @@
 
 <g id="edge49" class="edge">
 <title>node38-&gt;leaf39</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1855.51,-142.09C1851.28,-124.53 1843.44,-92.03 1837.87,-68.94" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1839.23,-68.59 1836.93,-65.03 1836.51,-69.24 1839.23,-68.59" />
-<text text-anchor="start" x="1846.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;2</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1776.84,-142.09C1773.09,-124.61 1766.17,-92.3 1761.23,-69.22" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1762.53,-68.65 1760.33,-65.03 1759.8,-69.23 1762.53,-68.65" />
+<text text-anchor="start" x="1768.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;2</text>
 </g>
 
 <g id="node49" class="node">
 <title>leaf40</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1907,-60.5 1866,-60.5 1866,-22.5 1907,-22.5 1907,-60.5" />
-<svg height="30px" version="1.1" viewBox="0 0 44.019844 39.517624" width="33px" preserveAspectRatio="xMinYMin meet" x="1870.5" y="-56.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1831,-60.5 1790,-60.5 1790,-22.5 1831,-22.5 1831,-60.5" />
+<svg height="30px" version="1.1" viewBox="0 0 44.019844 39.517624" width="33px" preserveAspectRatio="xMinYMin meet" x="1794.5" y="-56.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.381997</dc:date>
+    <dc:date>2022-04-06T11:01:24.797247</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1769,20 +1769,20 @@
 
 <g id="edge50" class="edge">
 <title>node38-&gt;leaf40</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1861.6,-142.09C1866.29,-123.35 1875.23,-87.58 1881.03,-64.4" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1882.39,-64.73 1882,-60.51 1879.67,-64.05 1882.39,-64.73" />
-<text text-anchor="start" x="1873.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;2</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1782.94,-142.09C1788.12,-123.35 1798.02,-87.58 1804.44,-64.4" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1805.8,-64.73 1805.52,-60.51 1803.1,-63.99 1805.8,-64.73" />
+<text text-anchor="start" x="1796.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;2</text>
 </g>
 
 <g id="node50" class="node">
 <title>leaf42</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="1998,-65.5 1957,-65.5 1957,-17.5 1998,-17.5 1998,-65.5" />
-<svg height="40px" version="1.1" viewBox="0 0 44.019844 53.337144" width="33px" preserveAspectRatio="xMinYMin meet" x="1961.5" y="-61.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1918,-65.5 1877,-65.5 1877,-17.5 1918,-17.5 1918,-65.5" />
+<svg height="40px" version="1.1" viewBox="0 0 44.019844 53.337144" width="33px" preserveAspectRatio="xMinYMin meet" x="1881.5" y="-61.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.417180</dc:date>
+    <dc:date>2022-04-06T11:01:24.834853</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1846,20 +1846,20 @@
 
 <g id="edge52" class="edge">
 <title>node41-&gt;leaf42</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2006.84,-142.09C2001.73,-124.75 1992.33,-92.83 1985.54,-69.79" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1986.86,-69.33 1984.39,-65.89 1984.18,-70.12 1986.86,-69.33" />
-<text text-anchor="start" x="1995.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;2</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1927.73,-142.09C1922.47,-124.75 1912.78,-92.83 1905.78,-69.79" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1907.1,-69.31 1904.6,-65.89 1904.42,-70.12 1907.1,-69.31" />
+<text text-anchor="start" x="1916.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;2</text>
 </g>
 
 <g id="node51" class="node">
 <title>leaf43</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="2079,-83 2012,-83 2012,0 2079,0 2079,-83" />
-<svg height="75px" version="1.1" viewBox="0 0 78.519998 100.449143" width="59px" preserveAspectRatio="xMinYMin meet" x="2016.5" y="-78.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="1999,-83 1932,-83 1932,0 1999,0 1999,-83" />
+<svg height="75px" version="1.1" viewBox="0 0 78.519998 100.449143" width="59px" preserveAspectRatio="xMinYMin meet" x="1936.5" y="-78.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.461112</dc:date>
+    <dc:date>2022-04-06T11:01:24.888290</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -1929,74 +1929,74 @@
 
 <g id="edge53" class="edge">
 <title>node41-&gt;leaf43</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2014.38,-142.09C2018.53,-128.79 2025.37,-106.92 2031.58,-87.05" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2032.95,-87.34 2032.81,-83.11 2030.28,-86.51 2032.95,-87.34" />
-<text text-anchor="start" x="2029.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;2</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1935.27,-142.09C1939.3,-128.79 1945.94,-106.92 1951.98,-87.05" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1953.35,-87.34 1953.17,-83.11 1950.67,-86.53 1953.35,-87.34" />
+<text text-anchor="start" x="1950.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;2</text>
 </g>
 
 <g id="edge55" class="edge">
 <title>node37-&gt;node38</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1856.8,-227.68C1857.14,-213.17 1857.72,-189 1858.11,-172.91" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1859.51,-172.63 1858.21,-168.6 1856.71,-172.57 1859.51,-172.63" />
-<text text-anchor="start" x="1856.5" y="-208.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1777.8,-227.68C1778.14,-213.17 1778.72,-189 1779.11,-172.91" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1780.51,-172.63 1779.21,-168.6 1777.71,-172.57 1780.51,-172.63" />
+<text text-anchor="start" x="1777.5" y="-208.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="edge56" class="edge">
 <title>node37-&gt;node41</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1878.89,-227.86C1906.92,-212.66 1954.82,-186.69 1984.45,-170.62" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1985.48,-171.66 1988.33,-168.52 1984.15,-169.2 1985.48,-171.66" />
-<text text-anchor="start" x="1919.5" y="-208.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1799.89,-227.86C1827.92,-212.66 1875.82,-186.69 1905.45,-170.62" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1906.48,-171.66 1909.33,-168.52 1905.15,-169.2 1906.48,-171.66" />
+<text text-anchor="start" x="1840.5" y="-208.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="node20" class="node">
 <title>node29</title>
-<text text-anchor="start" x="1731.5" y="-301.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 192</text>
-<text text-anchor="start" x="1684" y="-288.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">SUBTRACTS MONEY::Correct</text>
+<text text-anchor="start" x="1598.5" y="-301.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 192</text>
+<text text-anchor="start" x="1551" y="-288.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">SUBTRACTS MONEY::Correct</text>
 </g>
 
 <g id="edge58" class="edge">
 <title>node29-&gt;node30</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1750.19,-284.79C1736.9,-276.39 1719.19,-265.2 1705.22,-256.36" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1705.88,-255.13 1701.75,-254.17 1704.39,-257.49 1705.88,-255.13" />
-<text text-anchor="start" x="1735.5" y="-265.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1629.62,-284.79C1625.13,-276.82 1619.21,-266.33 1614.37,-257.73" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1615.54,-256.97 1612.36,-254.17 1613.11,-258.34 1615.54,-256.97" />
+<text text-anchor="start" x="1624.5" y="-265.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="edge59" class="edge">
 <title>node29-&gt;node37</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1788.81,-284.79C1802.1,-276.39 1819.81,-265.2 1833.78,-256.36" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1834.61,-257.49 1837.25,-254.17 1833.12,-255.13 1834.61,-257.49" />
-<text text-anchor="start" x="1822.5" y="-265.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1667.44,-284.93C1689.67,-276.26 1719.64,-264.57 1742.7,-255.57" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1743.41,-256.8 1746.63,-254.04 1742.39,-254.19 1743.41,-256.8" />
+<text text-anchor="start" x="1723.5" y="-265.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="node27" class="node">
 <title>node44</title>
-<text text-anchor="start" x="2056" y="-301.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1178</text>
-<text text-anchor="start" x="2020.5" y="-288.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">IDENTIFIES YEAR::Correct</text>
+<text text-anchor="start" x="1813" y="-301.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1178</text>
+<text text-anchor="start" x="1777.5" y="-288.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">IDENTIFIES YEAR::Correct</text>
 </g>
 
 
 <g id="node21" class="node">
 <title>node46</title>
-<text text-anchor="start" x="2182.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 14</text>
-<text text-anchor="start" x="2098" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">IDENTIFIES STREETS/COUNTRY::Correct</text>
+<text text-anchor="start" x="2087.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 14</text>
+<text text-anchor="start" x="2018.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">IDENTIFIES DAY OF WEEK::Correct</text>
 </g>
 
 <g id="node22" class="node">
 <title>node49</title>
-<text text-anchor="start" x="2473" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 5</text>
-<text text-anchor="start" x="2349" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">DIAGNOSIS 334-351: DEPRESSIVE ILLNESS::Present</text>
+<text text-anchor="start" x="2298" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 5</text>
+<text text-anchor="start" x="2238" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">DEPRESSIVE ILLNESS::Present</text>
 </g>
 
 
 <g id="node52" class="node">
 <title>leaf47</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="2210,-57.5 2169,-57.5 2169,-25.5 2210,-25.5 2210,-57.5" />
-<svg height="24px" version="1.1" viewBox="0 0 44.019844 31.979704" width="33px" preserveAspectRatio="xMinYMin meet" x="2173.5" y="-53.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="2114,-57.5 2073,-57.5 2073,-25.5 2114,-25.5 2114,-57.5" />
+<svg height="24px" version="1.1" viewBox="0 0 44.019844 31.979704" width="33px" preserveAspectRatio="xMinYMin meet" x="2077.5" y="-53.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.502259</dc:date>
+    <dc:date>2022-04-06T11:01:24.931076</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -2058,20 +2058,20 @@
 
 <g id="edge61" class="edge">
 <title>node46-&gt;leaf47</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2213.51,-142.09C2208.83,-122.68 2199.74,-84.99 2194.19,-61.95" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2195.49,-61.39 2193.19,-57.83 2192.77,-62.04 2195.49,-61.39" />
-<text text-anchor="start" x="2204.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2118.4,-142.09C2113.54,-122.68 2104.12,-84.99 2098.36,-61.95" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2099.66,-61.37 2097.33,-57.83 2096.94,-62.05 2099.66,-61.37" />
+<text text-anchor="start" x="2108.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="node53" class="node">
 <title>leaf48</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="2265,-61.5 2224,-61.5 2224,-21.5 2265,-21.5 2265,-61.5" />
-<svg height="32px" version="1.1" viewBox="0 0 44.019844 42.030264" width="33px" preserveAspectRatio="xMinYMin meet" x="2228.5" y="-57.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="2169,-61.5 2128,-61.5 2128,-21.5 2169,-21.5 2169,-61.5" />
+<svg height="32px" version="1.1" viewBox="0 0 44.019844 42.030264" width="33px" preserveAspectRatio="xMinYMin meet" x="2132.5" y="-57.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.546743</dc:date>
+    <dc:date>2022-04-06T11:01:24.978559</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -2131,20 +2131,20 @@
 
 <g id="edge62" class="edge">
 <title>node46-&gt;leaf48</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2219.6,-142.09C2224.21,-123.67 2232.92,-88.81 2238.72,-65.61" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2240.09,-65.92 2239.7,-61.7 2237.37,-65.24 2240.09,-65.92" />
-<text text-anchor="start" x="2231.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2124.49,-142.09C2128.93,-123.67 2137.34,-88.81 2142.93,-65.61" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2144.29,-65.92 2143.87,-61.7 2141.57,-65.26 2144.29,-65.92" />
+<text text-anchor="start" x="2136.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="node54" class="node">
 <title>leaf50</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="2499,-58 2446,-58 2446,-25 2499,-25 2499,-58" />
-<svg height="25px" version="1.1" viewBox="0 0 59.120156 33.236024" width="45px" preserveAspectRatio="xMinYMin meet" x="2450.5" y="-53.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="2324,-58 2271,-58 2271,-25 2324,-25 2324,-58" />
+<svg height="25px" version="1.1" viewBox="0 0 59.120156 33.236024" width="45px" preserveAspectRatio="xMinYMin meet" x="2275.5" y="-53.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.587430</dc:date>
+    <dc:date>2022-04-06T11:01:25.025027</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -2209,20 +2209,20 @@
 
 <g id="edge64" class="edge">
 <title>node49-&gt;leaf50</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2500.06,-142.09C2494.72,-122.78 2484.37,-85.4 2477.99,-62.33" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2479.26,-61.68 2476.85,-58.2 2476.56,-62.43 2479.26,-61.68" />
-<text text-anchor="start" x="2489.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2325.06,-142.09C2319.72,-122.78 2309.37,-85.4 2302.99,-62.33" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2304.26,-61.68 2301.85,-58.2 2301.56,-62.43 2304.26,-61.68" />
+<text text-anchor="start" x="2314.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="node55" class="node">
 <title>leaf51</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="2554,-56.5 2513,-56.5 2513,-26.5 2554,-26.5 2554,-56.5" />
-<svg height="22px" version="1.1" viewBox="0 0 44.019844 29.467064" width="33px" preserveAspectRatio="xMinYMin meet" x="2517.5" y="-52.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="2379,-56.5 2338,-56.5 2338,-26.5 2379,-26.5 2379,-56.5" />
+<svg height="22px" version="1.1" viewBox="0 0 44.019844 29.467064" width="33px" preserveAspectRatio="xMinYMin meet" x="2342.5" y="-52.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.628842</dc:date>
+    <dc:date>2022-04-06T11:01:25.070936</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -2281,60 +2281,60 @@
 
 <g id="edge65" class="edge">
 <title>node49-&gt;leaf51</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2506.83,-142.09C2512.11,-122.36 2522.46,-83.73 2528.59,-60.82" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2530.01,-60.95 2529.69,-56.73 2527.3,-60.23 2530.01,-60.95" />
-<text text-anchor="start" x="2519.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2331.83,-142.09C2337.11,-122.36 2347.46,-83.73 2353.59,-60.82" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2355.01,-60.95 2354.69,-56.73 2352.3,-60.23 2355.01,-60.95" />
+<text text-anchor="start" x="2344.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="node23" class="node">
 <title>node45</title>
-<text text-anchor="start" x="2254.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 19</text>
-<text text-anchor="start" x="2231" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECALLS ADDRESS</text>
+<text text-anchor="start" x="2150.5" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 19</text>
+<text text-anchor="start" x="2127" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECALLS ADDRESS</text>
 </g>
 
 <g id="edge67" class="edge">
 <title>node45-&gt;node46</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2277.88,-227.68C2265.04,-212.79 2243.45,-187.75 2229.6,-171.69" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2230.61,-170.71 2226.93,-168.6 2228.49,-172.54 2230.61,-170.71" />
-<text text-anchor="start" x="2270.5" y="-208.8" font-family="Times,serif" font-size="14.00">&lt;5</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2175.2,-227.68C2164.07,-212.92 2145.39,-188.17 2133.26,-172.09" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2134.16,-170.95 2130.63,-168.6 2131.92,-172.64 2134.16,-170.95" />
+<text text-anchor="start" x="2168.5" y="-208.8" font-family="Times,serif" font-size="14.00">&lt;5</text>
 </g>
 
 <g id="edge68" class="edge">
 <title>node45-&gt;node49</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2319.76,-227.86C2359.36,-212.48 2427.4,-186.05 2468.64,-170.04" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2469.33,-171.27 2472.55,-168.52 2468.31,-168.66 2469.33,-171.27" />
-<text text-anchor="start" x="2376.5" y="-208.8" font-family="Times,serif" font-size="14.00">&#8805;5</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2205.44,-227.86C2231.57,-212.71 2276.18,-186.84 2303.91,-170.76" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2304.78,-171.87 2307.54,-168.66 2303.37,-169.45 2304.78,-171.87" />
+<text text-anchor="start" x="2243.5" y="-208.8" font-family="Times,serif" font-size="14.00">&#8805;5</text>
 </g>
 
 <g id="node26" class="node">
 <title>node52</title>
-<text text-anchor="start" x="2533" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1159</text>
-<text text-anchor="start" x="2456" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">IDENTIFIES STREETS/COUNTRY::Correct</text>
+<text text-anchor="start" x="2424" y="-244.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1159</text>
+<text text-anchor="start" x="2347" y="-231.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">IDENTIFIES STREETS/COUNTRY::Correct</text>
 </g>
 
 
 <g id="node24" class="node">
 <title>node53</title>
-<text text-anchor="start" x="2719.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 20</text>
-<text text-anchor="start" x="2665" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
+<text text-anchor="start" x="2480.5" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 20</text>
+<text text-anchor="start" x="2426" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">NUMBER OF ANIMALS LISTED</text>
 </g>
 
 <g id="node25" class="node">
 <title>node56</title>
-<text text-anchor="start" x="2926" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1139</text>
-<text text-anchor="start" x="2855.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">KNOWS RECENT NEWS ITEM::Correct</text>
+<text text-anchor="start" x="2687" y="-158.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 1139</text>
+<text text-anchor="start" x="2616.5" y="-145.9" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">KNOWS RECENT NEWS ITEM::Correct</text>
 </g>
 
 
 <g id="node56" class="node">
 <title>leaf54</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="2744,-61.5 2703,-61.5 2703,-21.5 2744,-21.5 2744,-61.5" />
-<svg height="32px" version="1.1" viewBox="0 0 44.019844 42.030263" width="33px" preserveAspectRatio="xMinYMin meet" x="2707.5" y="-57.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="2505,-61.5 2464,-61.5 2464,-21.5 2505,-21.5 2505,-61.5" />
+<svg height="32px" version="1.1" viewBox="0 0 44.019844 42.030263" width="33px" preserveAspectRatio="xMinYMin meet" x="2468.5" y="-57.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.675402</dc:date>
+    <dc:date>2022-04-06T11:01:25.125606</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -2397,20 +2397,20 @@
 
 <g id="edge70" class="edge">
 <title>node53-&gt;leaf54</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2750.17,-142.09C2745.24,-123.67 2735.9,-88.81 2729.69,-65.61" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2731.03,-65.21 2728.64,-61.7 2728.33,-65.93 2731.03,-65.21" />
-<text text-anchor="start" x="2740.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;19</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2511.17,-142.09C2506.24,-123.67 2496.9,-88.81 2490.69,-65.61" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2492.03,-65.21 2489.64,-61.7 2489.33,-65.93 2492.03,-65.21" />
+<text text-anchor="start" x="2501.5" y="-94.8" font-family="Times,serif" font-size="14.00">&lt;19</text>
 </g>
 
 <g id="node57" class="node">
 <title>leaf55</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="2811,-60.5 2758,-60.5 2758,-22.5 2811,-22.5 2811,-60.5" />
-<svg height="30px" version="1.1" viewBox="0 0 59.120156 39.517624" width="45px" preserveAspectRatio="xMinYMin meet" x="2762.5" y="-56.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="2572,-60.5 2519,-60.5 2519,-22.5 2572,-22.5 2572,-60.5" />
+<svg height="30px" version="1.1" viewBox="0 0 59.120156 39.517624" width="45px" preserveAspectRatio="xMinYMin meet" x="2523.5" y="-56.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.720281</dc:date>
+    <dc:date>2022-04-06T11:01:25.176916</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -2478,20 +2478,20 @@
 
 <g id="edge71" class="edge">
 <title>node53-&gt;leaf55</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2756.94,-142.09C2762.12,-123.35 2772.02,-87.58 2778.44,-64.4" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2779.8,-64.73 2779.52,-60.51 2777.1,-63.99 2779.8,-64.73" />
-<text text-anchor="start" x="2771.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;19</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2517.94,-142.09C2523.12,-123.35 2533.02,-87.58 2539.44,-64.4" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2540.8,-64.73 2540.52,-60.51 2538.1,-63.99 2540.8,-64.73" />
+<text text-anchor="start" x="2532.5" y="-94.8" font-family="Times,serif" font-size="14.00">&#8805;19</text>
 </g>
 
 <g id="node58" class="node">
 <title>leaf57</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="2968,-78.5 2911,-78.5 2911,-4.5 2968,-4.5 2968,-78.5" />
-<svg height="66px" version="1.1" viewBox="0 0 65.835865 87.257733" width="49px" preserveAspectRatio="xMinYMin meet" x="2915.5" y="-74.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="2729,-78.5 2672,-78.5 2672,-4.5 2729,-4.5 2729,-78.5" />
+<svg height="66px" version="1.1" viewBox="0 0 65.835865 87.257733" width="49px" preserveAspectRatio="xMinYMin meet" x="2676.5" y="-74.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.760719</dc:date>
+    <dc:date>2022-04-06T11:01:25.221972</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -2561,20 +2561,20 @@
 
 <g id="edge73" class="edge">
 <title>node56-&gt;leaf57</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2964.4,-142.09C2960.85,-127.88 2954.85,-103.89 2949.63,-83.01" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2950.92,-82.43 2948.6,-78.88 2948.21,-83.11 2950.92,-82.43" />
-<text text-anchor="start" x="2954.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2725.4,-142.09C2721.85,-127.88 2715.85,-103.89 2710.63,-83.01" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2711.92,-82.43 2709.6,-78.88 2709.21,-83.11 2711.92,-82.43" />
+<text text-anchor="start" x="2715.5" y="-94.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="node59" class="node">
 <title>leaf58</title>
-<polygon fill="none" stroke="#444443" stroke-width="0" points="3049,-83 2982,-83 2982,0 3049,0 3049,-83" />
-<svg height="75px" version="1.1" viewBox="0 0 78.519994 100.449143" width="59px" preserveAspectRatio="xMinYMin meet" x="2986.5" y="-78.5">
+<polygon fill="none" stroke="#444443" stroke-width="0" points="2810,-83 2743,-83 2743,0 2810,0 2810,-83" />
+<svg height="75px" version="1.1" viewBox="0 0 78.519994 100.449143" width="59px" preserveAspectRatio="xMinYMin meet" x="2747.5" y="-78.5">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:53.889494</dc:date>
+    <dc:date>2022-04-06T11:01:25.365059</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
@@ -2648,71 +2648,71 @@
 
 <g id="edge74" class="edge">
 <title>node56-&gt;leaf58</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2972.82,-142.09C2978.52,-128.79 2987.89,-106.92 2996.41,-87.05" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2997.81,-87.34 2998.1,-83.11 2995.23,-86.23 2997.81,-87.34" />
-<text text-anchor="start" x="2993.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2733.82,-142.09C2739.52,-128.79 2748.89,-106.92 2757.41,-87.05" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2758.81,-87.34 2759.1,-83.11 2756.23,-86.23 2758.81,-87.34" />
+<text text-anchor="start" x="2754.5" y="-94.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="edge76" class="edge">
 <title>node52-&gt;node53</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2600.53,-227.86C2633.37,-212.54 2689.69,-186.27 2724.06,-170.23" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2724.7,-171.48 2727.73,-168.52 2723.51,-168.94 2724.7,-171.48" />
-<text text-anchor="start" x="2647.5" y="-208.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2472.73,-227.68C2481.39,-212.92 2495.92,-188.17 2505.35,-172.09" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2506.58,-172.76 2507.4,-168.6 2504.17,-171.34 2506.58,-172.76" />
+<text text-anchor="start" x="2485.5" y="-208.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="edge77" class="edge">
 <title>node52-&gt;node56</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2631.23,-227.95C2704.52,-212.37 2831.62,-185.37 2906.81,-169.4" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2907.17,-170.75 2910.79,-168.55 2906.59,-168.01 2907.17,-170.75" />
-<text text-anchor="start" x="2793.5" y="-208.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M2503.46,-227.95C2552.12,-212.5 2636.22,-185.8 2686.68,-169.78" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2687.16,-171.09 2690.55,-168.55 2686.31,-168.42 2687.16,-171.09" />
+<text text-anchor="start" x="2579.5" y="-208.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="edge79" class="edge">
 <title>node44-&gt;node45</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2139.42,-284.93C2169.89,-276.15 2211.14,-264.28 2242.52,-255.24" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2243.23,-256.49 2246.68,-254.04 2242.45,-253.8 2243.23,-256.49" />
-<text text-anchor="start" x="2215.5" y="-265.8" font-family="Times,serif" font-size="14.00">No</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1926.51,-285C1985.22,-275.21 2067.25,-261.54 2122.94,-252.26" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2123.18,-253.64 2126.9,-251.6 2122.72,-250.88 2123.18,-253.64" />
+<text text-anchor="start" x="2058.5" y="-265.8" font-family="Times,serif" font-size="14.00">No</text>
 </g>
 
 <g id="edge80" class="edge">
 <title>node44-&gt;node52</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M2174.67,-288.1C2253.7,-278.99 2377.23,-264.75 2466.07,-254.5" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2466.46,-255.87 2470.28,-254.02 2466.14,-253.08 2466.46,-255.87" />
-<text text-anchor="start" x="2392.5" y="-265.8" font-family="Times,serif" font-size="14.00">Yes</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1931.57,-290.06C2035.01,-280.75 2219.91,-264.11 2342.65,-253.06" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2343.14,-254.42 2346.99,-252.67 2342.88,-251.63 2343.14,-254.42" />
+<text text-anchor="start" x="2238.5" y="-265.8" font-family="Times,serif" font-size="14.00">Yes</text>
 </g>
 
 <g id="edge82" class="edge">
 <title>node28-&gt;node29</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1567.8,-342C1609.45,-333.12 1666.12,-321.04 1708.79,-311.94" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1709.25,-313.27 1712.87,-311.07 1708.67,-310.54 1709.25,-313.27" />
-<text text-anchor="start" x="1670.5" y="-322.8" font-family="Times,serif" font-size="14.00">&lt;13</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1434.02,-342C1475.83,-333.12 1532.72,-321.04 1575.56,-311.94" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1576.03,-313.27 1579.66,-311.07 1575.45,-310.53 1576.03,-313.27" />
+<text text-anchor="start" x="1537.5" y="-322.8" font-family="Times,serif" font-size="14.00">&lt;13</text>
 </g>
 
 <g id="edge83" class="edge">
 <title>node28-&gt;node44</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1600.18,-345.68C1713.12,-335.08 1906.69,-316.91 2016.05,-306.64" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="2016.37,-308.02 2020.22,-306.25 2016.11,-305.23 2016.37,-308.02" />
-<text text-anchor="start" x="1873.5" y="-322.8" font-family="Times,serif" font-size="14.00">&#8805;13</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1466.1,-343.78C1554.15,-333.63 1688.04,-318.19 1773.38,-308.35" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1773.59,-309.74 1777.41,-307.89 1773.27,-306.96 1773.59,-309.74" />
+<text text-anchor="start" x="1685.5" y="-322.8" font-family="Times,serif" font-size="14.00">&#8805;13</text>
 </g>
 
 <g id="node29" class="node">
 <title>node0</title>
-<text text-anchor="start" x="1241" y="-425.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 2505</text>
-<text text-anchor="start" x="1227.5" y="-412.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECALLS OBJECTS</text>
+<text text-anchor="start" x="1129" y="-425.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">Sample: 2505</text>
+<text text-anchor="start" x="1115.5" y="-412.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#444443">RECALLS OBJECTS</text>
 </g>
 
 <g id="edge85" class="edge">
 <title>node0-&gt;node1</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1262.62,-408.93C1244.61,-397.98 1218.03,-381.84 1198.98,-370.26" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1199.41,-368.89 1195.27,-368.01 1197.96,-371.28 1199.41,-368.89" />
-<text text-anchor="start" x="1232.5" y="-379.8" font-family="Times,serif" font-size="14.00">&lt;2</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1150.62,-408.93C1132.61,-397.98 1106.03,-381.84 1086.98,-370.26" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1087.41,-368.89 1083.27,-368.01 1085.96,-371.28 1087.41,-368.89" />
+<text text-anchor="start" x="1120.5" y="-379.8" font-family="Times,serif" font-size="14.00">&lt;2</text>
 </g>
 
 <g id="edge86" class="edge">
 <title>node0-&gt;node28</title>
-<path fill="none" stroke="#444443" stroke-width="0.3" d="M1325.04,-408.93C1364.88,-397.62 1424.28,-380.76 1465.28,-369.12" />
-<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1465.73,-370.45 1469.19,-368.01 1464.96,-367.75 1465.73,-370.45" />
-<text text-anchor="start" x="1432.5" y="-379.8" font-family="Times,serif" font-size="14.00">&#8805;2</text>
+<path fill="none" stroke="#444443" stroke-width="0.3" d="M1208.95,-408.93C1244.82,-397.66 1298.23,-380.89 1335.27,-369.26" />
+<polygon fill="#444443" stroke="#444443" stroke-width="0.3" points="1335.86,-370.54 1339.26,-368.01 1335.02,-367.87 1335.86,-370.54" />
+<text text-anchor="start" x="1308.5" y="-379.8" font-family="Times,serif" font-size="14.00">&#8805;2</text>
 </g>
 
 
@@ -2732,13 +2732,13 @@
 
 <g id="node60" class="node">
 <title>legend</title>
-<polygon fill="none" stroke="black" stroke-width="0" points="1428,-445 1345,-445 1345,-399 1428,-399 1428,-445" />
-<svg height="42px" version="1.1" viewBox="0 0 105.189062 55.034375" width="79px" preserveAspectRatio="xMinYMin meet" x="1347.5" y="-443">
+<polygon fill="none" stroke="black" stroke-width="0" points="1316,-445 1233,-445 1233,-399 1316,-399 1316,-445" />
+<svg height="42px" version="1.1" viewBox="0 0 105.189062 55.034375" width="79px" preserveAspectRatio="xMinYMin meet" x="1235.5" y="-443">
  <metadata>
   <rdf:RDF>
    <ns2:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:date>2022-04-05T17:03:52.249435</dc:date>
+    <dc:date>2022-04-06T11:01:23.614875</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <ns2:Agent>
